@@ -19,12 +19,12 @@ title: Jan Huss # the main title
 tagline: Audio Tools Programmer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  I am an Audio Tools Programmer with a 10-year career in music production and sound design. Completing a Bachelor Honours of Arts in Music Production and Sound Engineering and a Bachelor Honours of Computer Science in Computer Game Applications Development, I have worked hard to combine knowledge in music and code to fill the role of an Audio Tools Programmer in the games industry. Currently, I am also one of the co-founders and company directors at Studio Catloaf, where I work as a producer, audio programmer, and sound designer and composer.
+  I am an Audio Tools Programmer with a 10-year career in music production <br>and sound design. Completing a Bachelor Honours of Arts in Music Production <br>and Sound Engineering and a Bachelor Honours of Computer Science in <br>Computer Game Applications Development, I have worked hard to combine <br>knowledge in music and code to fill the role of an Audio Tools Programmer <br>in the games industry.<br><br>Currently, I am also one of the co-founders and company directors at <br>Studio Catloaf, where I work as a producer, audio programmer, and sound <br>designer and composer.
 
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://janhuss.github.io"
 
 github:
   username: github_username # change to your GitHub username
