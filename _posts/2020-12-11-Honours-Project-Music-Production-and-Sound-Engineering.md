@@ -2,7 +2,7 @@
 title: Honours Project in Music Production and Sound Engineering
 description: The final hurdle to completing my Honours Degree
 author: Jan
-date: 2020-12-04
+date: 2020-12-11
 categories: [MUSIC_PRODUCTION]
 tags: [musicproduction, sounddesign, videogames]
 ---
