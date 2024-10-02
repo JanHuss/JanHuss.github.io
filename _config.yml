@@ -9,40 +9,49 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: 
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Jan Huss # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Audio Tools Programmer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+I am an Audio Tools Programmer with a 10-year career in music production
+and sound design. Completing a Bachelor Honours of Arts in Music Production
+and Sound Engineering and a Bachelor Honours of Computer Science in
+Computer Game Applications Development, I have worked hard to combine
+knowledge in music and code to fill the role of an Audio Tools Programmer
+in the games industry.
+
+Currently, I am also one of the co-founders and company directors at
+Studio Catloaf, where I work as a producer, audio programmer, and sound
+designer and composer.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://janhuss.github.io/"
 
 github:
-  username: github_username # change to your GitHub username
+  username: JanHuss # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+#twitter:
+#  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Jan Huss
+  email: huss.janpeter@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    # - https://twitter.com/username # change to your Twitter homepage
+    - https://www.linkedin.com/in/janhuss/
+    - https://github.com/JanHuss # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
