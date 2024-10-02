@@ -1,5 +1,5 @@
 ---
-title: DNA: Data Not Available
+title: DNA - Data Not Available
 description: First released album
 author: Jan
 date: 2019-05-01
