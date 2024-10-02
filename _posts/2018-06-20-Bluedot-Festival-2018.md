@@ -3,7 +3,7 @@ title: Bluedot Festival 2018
 description: One of my greatest experiences
 author: Jan
 date: 2018-06-20
-categories: [MUSIC_PRODUCTION, DJ]
+categories: [MUSIC_PRODUCTION]
 tags: [musicproduction, jphuzzle, dj]
 ---
 As I started with DJing, one of my greatest goals was to perform a set on a bigger stage. This came to be when I was invited to perform at the Blue Dot Festival in 2018.
