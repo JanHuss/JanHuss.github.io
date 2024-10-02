@@ -14,8 +14,13 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 - [Book of Abominations](https://www.eurogamer.net/uncovering-the-eldritch-horror-monster-collecting-rpg-book-of-abominations) - An award-winning game developed by [Studio Catloaf](https://x.com/StudioCatloaf)
 - [MaginEngine Audio](https://github.com/JanHuss/maginEngineAudio) - Building an efficient and optimised audio engine for <br>video games (Honours project) <br>  
 
+
+> Section under construction
+{: .prompt-danger }
+<!-- markdownlint-restore -->
 ## Skills in:
 ---
+![cpp](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/){: width="50" height="50" .w-75 .normal}
 <img align="left" alt="cpp" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="cSharp" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="openGL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
