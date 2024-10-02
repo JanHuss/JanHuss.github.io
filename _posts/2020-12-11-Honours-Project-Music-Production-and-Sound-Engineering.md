@@ -4,7 +4,7 @@ description: The final hurdle to completing my Honours Degree
 author: Jan
 date: 2020-12-11
 categories: [MUSIC_PRODUCTION]
-tags: [musicproduction, sounddesign, videogames]
+tags: [musicproduction, sounddesign, videogames, foley]
 ---
 As part of my honours dissertation, I decided to recreate the soundscapes and SFX of a cinematic video. I chose ADAM: Episode One to be this video, removed all of the audio from it without ever hearing its original sound and built my own environment of sound based on what I was feeling from the footage.
 This was an incredible experience and had me thinking many times out of the box and how to keep sounds interesting to captivate the listener. From using deodorant cans for the release of the wires, to the squelching of a leather belt when the latex is torn, to the clashing of two forks for the robot's mechanical movement, it was a fantastic experience.
