@@ -1,7 +1,8 @@
 ---
 title: Zombie Run
-date: 2017-02-01
+description: First released track
 author: Jan
+date: 2017-02-01
 categories: [MUSIC_PRODUCTION]
 tags: [musicproduction, jphuzzle]
 ---
