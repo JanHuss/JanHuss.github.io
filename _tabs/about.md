@@ -19,7 +19,7 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 <!-- markdownlint-restore -->
 ## Skills in:
 ---
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" style="width:50px; float:left; padding-right:10px;" />
+![SVG Image](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg){: style="width:50px; float:left;" }
 
 <img align="left" alt="cpp" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="cSharp" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
