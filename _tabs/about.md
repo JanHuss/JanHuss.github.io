@@ -21,11 +21,11 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 {: .prompt-danger }
 
 Languages:<br>
-    - ![cplusplus](/assets/img/logos/cplusplus.png){: width="50" height="50" .w-75 .left} C++<br>
-    - ![cpsharp](/assets/img/logos/csharp.png){: width="50" height="50" .w-75 .left} C#<br>
-    - ![html](/assets/img/logos/html.png){: width="50" height="50" .w-75 .left } HTML5<br>
-    - ![python](/assets/img/logos/python.png){: width="50" height="50" .w-75 .left } Python<br>
-    - ![latex](/assets/img/logos/latex.png){: width="50" height="50" .w-75 .left} LaTeX<br>
+    - ![cplusplus](/assets/img/logos/cplusplus.png){: width="50" .w-50 .left} C++<br>
+    - ![cpsharp](/assets/img/logos/csharp.png){: width="50" height="50" .w-50 .left} C#<br>
+    - ![html](/assets/img/logos/html.png){: width="50" height="50" .w-50 .left } HTML5<br>
+    - ![python](/assets/img/logos/python.png){: width="50" height="50" .w-50 .left } Python<br>
+    - ![latex](/assets/img/logos/latex.png){: width="50" height="50" .w-50 .left} LaTeX<br>
 <br>
 Tools:<br>
     - Unity<br>
