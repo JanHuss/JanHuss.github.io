@@ -1,5 +1,5 @@
 ---
-title: Book of Abominations [Milestone 2]
+title: Fuzzy Logic
 description: AI Coursework using Fuzzy Logic
 author: Jan
 date: 2024-03-24
