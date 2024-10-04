@@ -18,7 +18,7 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 ## Skills in:
 ---
 ### Languages:<br>
---
+
     ![cplusplus](/assets/img/logos/cplusplus.png){: width="50" .w-5 .left}
     ![cpsharp](/assets/img/logos/csharp.png){: width="50" .w-5 .left}
     ![html](/assets/img/logos/html.png){: width="50" .w-5 .left }
