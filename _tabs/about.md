@@ -23,9 +23,9 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 ![cplusplus](/assets/img/logos/cplusplus.png){: width="50" height="50" .w-50 .left}
 ![cpsharp](/assets/img/logos/csharp.png){: width="50" height="50" .w-50 .left}
 ![opengl](/assets/img/logos/opengl.png){: width="50" height="50" .w-50 .left}
-![html](/assets/img/logos/html.png){: width="50" height="50" .w-75 .normal}
-![jekyll](/assets/img/logos/jekyll.png){: width="50" height="50" .w-75 .normal}
-![python](/assets/img/logos/python.png){: width="50" height="50" .w-75 .normal}
+![html](/assets/img/logos/html.png){: width="50" height="50" }
+![jekyll](/assets/img/logos/jekyll.png){: width="50" height="50" }
+![python](/assets/img/logos/python.png){: width="50" height="50" }
 ![latex](/assets/img/logos/latex.png){: width="50" height="50" .w-75 .normal}
 ![unity](/assets/img/logos/unity.png){: width="50" height="50" .w-75 .normal}
 ![unrealengine](/assets/img/logos/unrealengine.png){: width="50" height="50" .w-75 .normal}
