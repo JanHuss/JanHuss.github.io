@@ -20,19 +20,19 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 > Section under construction
 {: .prompt-danger }
 
-![cplusplus](/assets/img/logos/cplusplus.png){: width="50" height="50" .w-50 }
-![cpsharp](/assets/img/logos/csharp.png){: width="50" height="50" .w-50 }
-![opengl](/assets/img/logos/opengl.png){: width="50" height="50" .w-50 }
+![cplusplus](/assets/img/logos/cplusplus.png){: width="50" height="50"}
+![cpsharp](/assets/img/logos/csharp.png){: width="50" height="50"}
+![opengl](/assets/img/logos/opengl.png){: width="50" height="50"}
 ![html](/assets/img/logos/html.png){: width="50" height="50" }
 ![jekyll](/assets/img/logos/jekyll.png){: width="50" height="50" }
 ![python](/assets/img/logos/python.png){: width="50" height="50" }
-![latex](/assets/img/logos/latex.png){: width="50" height="50" .w-75}
-![unity](/assets/img/logos/unity.png){: width="50" height="50" .w-75 }
-![unrealengine](/assets/img/logos/unrealengine.png){: width="50" height="50" .w-75 }
-![github](/assets/img/logos/github.png){: width="50" height="50" .w-75 }
-![rider](/assets/img/logos/rider.png){: width="50" height="50" .w-75 }
-![visualstudio](/assets/img/logos/visualstudio.png){: width="50" height="50" .w-75 }
-![powershell](/assets/img/logos/powershell.png){: width="50" height="50" .w-75}
+![latex](/assets/img/logos/latex.png){: width="50" height="50"}
+![unity](/assets/img/logos/unity.png){: width="50" height="50"}
+![unrealengine](/assets/img/logos/unrealengine.png){: width="50" height="50"}
+![github](/assets/img/logos/github.png){: width="50" height="50"}
+![rider](/assets/img/logos/rider.png){: width="50" height="50"}
+![visualstudio](/assets/img/logos/visualstudio.png){: width="50" height="50"}
+![powershell](/assets/img/logos/powershell.png){: width="50" height="50"}
 
 
 <img align="left" alt="cpp" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
