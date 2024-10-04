@@ -17,14 +17,15 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 <!-- markdownlint-restore -->
 ## Skills in:
 ---
-### Languages:<br>
-
+Languages:<br>
     ![cplusplus](/assets/img/logos/cplusplus.png){: width="50" .w-5 .left}
     ![cpsharp](/assets/img/logos/csharp.png){: width="50" .w-5 .left}
     ![html](/assets/img/logos/html.png){: width="50" .w-5 .left }
     ![python](/assets/img/logos/python.png){: width="50" .w-5 .left }
     ![latex](/assets/img/logos/latex.png){: width="50" .w-5 .left}<br>
+
 <br><br>
+
 Tools:<br>
     ![unity](/assets/img/logos/unity.png){: width="50" .w-5 .left}
     ![unrealengine](/assets/img/logos/unrealengine.png){: width="50" .w-5 .left}
