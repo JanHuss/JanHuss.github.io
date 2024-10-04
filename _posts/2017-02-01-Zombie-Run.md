@@ -3,7 +3,7 @@ title: Zombie Run
 description: First released track
 author: Jan
 date: 2017-02-01
-categories: [MUSIC_PRODUCTION]
+categories: [MUSIC PRODUCTION, COMPOSITION]
 tags: [musicproduction, jphuzzle]
 ---
 Zombie Run was the first single I had released after the Music Composition Module at the Manchester MIDI School (now School of Electronic Music).

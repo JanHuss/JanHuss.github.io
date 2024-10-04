@@ -3,7 +3,7 @@ title: Testing Testing
 description: A little EP created for a module at Point Blank
 author: Jan
 date: 2019-12-04
-categories: [MUSIC_PRODUCTION]
+categories: [MUSIC PRODUCTION, COMPOSITION]
 tags: [musicproduction, jphuzzle]
 ---
 

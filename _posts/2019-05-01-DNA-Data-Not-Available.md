@@ -3,7 +3,7 @@ title: DNA - Data Not Available
 description: First released album
 author: Jan
 date: 2019-05-01
-categories: [MUSIC_PRODUCTION]
+categories: [MUSIC PRODUCTION, COMPOSITION]
 tags: [musicproduction, jphuzzle]
 ---
 

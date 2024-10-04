@@ -3,7 +3,7 @@ title: Into Space
 description: 
 author: Jan
 date: 2019-02-01
-categories: [MUSIC_PRODUCTION]
+categories: [MUSIC PRODUCTION, COMPOSITION]
 tags: [musicproduction, jphuzzle]
 ---
 Into Space was a side project I made along my studies. I wanted to explore the specifics of baselines in genres such as dubstep and neurofunk, how they are written and designed. Although this project didn't meet my criteria, it was a pivotal moment in understanding the genres and therefore an important milestone in my career.

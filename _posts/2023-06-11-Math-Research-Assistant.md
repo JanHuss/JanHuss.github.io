@@ -3,7 +3,7 @@ title: Math Research Assistant
 description: Helping develop a maths primer course for new students
 author: Jan
 date: 2023-06-11
-categories: [PROGRAMMING]
+categories: [PROGRAMMING, MATHEMATICS]
 tags: [mathematics]
 ---
 
