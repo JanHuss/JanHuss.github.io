@@ -20,19 +20,19 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 > Section under construction
 {: .prompt-danger }
 
-Languages:
-    * C++
-    * C#
-    * HTML5
-    * Python
-    * LaTeX
-
-Tools:
-    * Unity
-    * Unreal Engine
-    * Jetbrains Rider
-    * Visual Studio
-    * Command Prompt
-    * Github
-    * OpenGL
-    * Jekyll
+Languages:<br>
+    * C++<br>
+    * C#<br>
+    * HTML5<br>
+    * Python<br>
+    * LaTeX<br>
+<br>
+Tools:<br>
+    * Unity<br>
+    * Unreal Engine<br>
+    * Jetbrains Rider<br>
+    * Visual Studio<br>
+    * Command Prompt<br>
+    * Github<br>
+    * OpenGL<br>
+    * Jekyll<br>
