@@ -21,6 +21,19 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 {: .prompt-danger }
 
 ![cplusplus](/assets/img/logos/cplusplus.png){: width="50" height="50" .w-75 .normal}
+![cpsharp](/assets/img/logos/csharp.png){: width="50" height="50" .w-75 .normal}
+![opengl](/assets/img/logos/opengl.png){: width="50" height="50" .w-75 .normal}
+![html](/assets/img/logos/html.png){: width="50" height="50" .w-75 .normal}
+![jekyll](/assets/img/logos/jekyll.png){: width="50" height="50" .w-75 .normal}
+![python](/assets/img/logos/python.png){: width="50" height="50" .w-75 .normal}
+![latex](/assets/img/logos/latex.png){: width="50" height="50" .w-75 .normal}
+![unity](/assets/img/logos/unity.png){: width="50" height="50" .w-75 .normal}
+![unrealengine](/assets/img/logos/unrealengine.png){: width="50" height="50" .w-75 .normal}
+![github](/assets/img/logos/github.png){: width="50" height="50" .w-75 .normal}
+![rider](/assets/img/logos/rider.png){: width="50" height="50" .w-75 .normal}
+![visualstudio](/assets/img/logos/visualstudio.png){: width="50" height="50" .w-75 .normal}
+![powershell](/assets/img/logos/powershell.png){: width="50" height="50" .w-75 .normal}
+
 
 <img align="left" alt="cpp" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="cSharp" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
