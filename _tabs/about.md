@@ -26,9 +26,9 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 ![html](/assets/img/logos/html.png){: width="50" height="50" }
 ![jekyll](/assets/img/logos/jekyll.png){: width="50" height="50" }
 ![python](/assets/img/logos/python.png){: width="50" height="50" }
-![latex](/assets/img/logos/latex.png){: width="50" height="50" .w-75 .normal}
-![unity](/assets/img/logos/unity.png){: width="50" height="50" .w-75 .normal}
-![unrealengine](/assets/img/logos/unrealengine.png){: width="50" height="50" .w-75 .normal}
+![latex](/assets/img/logos/latex.png){: width="50" height="50" .w-75 .normal style="padding-right:10px}
+![unity](/assets/img/logos/unity.png){: width="50" height="50" .w-75 .normal style="padding-right:10px}
+![unrealengine](/assets/img/logos/unrealengine.png){: width="50" height="50" .w-75 .normal style="padding-right:10px}
 ![github](/assets/img/logos/github.png){: width="50" height="50" .w-75 .normal}
 ![rider](/assets/img/logos/rider.png){: width="50" height="50" .w-75 .normal}
 ![visualstudio](/assets/img/logos/visualstudio.png){: width="50" height="50" .w-75 .normal}
