@@ -26,7 +26,7 @@ Languages:<br>
     ![html](/assets/img/logos/html.png){: width="50" .w-5 .left }
     ![python](/assets/img/logos/python.png){: width="50" .w-5 .left }
     ![latex](/assets/img/logos/latex.png){: width="50" .w-5 .left}<br>
-<br><br><br>
+<br><br>
 Tools:<br>
     ![unity](/assets/img/logos/unity.png){: width="50" .w-5 .left}
     ![unrealengine](/assets/img/logos/unrealengine.png){: width="50" .w-5 .left}
