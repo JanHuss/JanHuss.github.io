@@ -7,21 +7,18 @@ categories: [PROGRAMMING, AI]
 tags: [coursework, abertay, ai, machine, learning, csharp]
 ---
 
-> Blog post under construction
-{: .prompt-danger }
-
 # Introduction and Background
 ---
 For my coursework, I chose to train a facial emotion recognition model. Facial Emotion Recognition (FER) utilises a data set consisting of images categorized in different emotions. If a camera were pointed toward a person, it would determine the current emotional state this person is visually expressing (Andalibi et al, 2020).
 FER is utilised in many aspects of the world and for my assignments throughout this course, I have looked for subjects that can also be related to audio. I considered that audio could be utilised in emotion detection to trigger sounds based on a person’s facial expression. My thought process was that people with extreme sight difficulties could hear how a person reacts, aiding them in conversation. After a brief search on google scholar, I discovered that emotion detection and audio has been researched in a vast majority of fields. One of which was registering the harmonics and loudness within the ear canal to determine which emotion had been triggered (Sezgin et al, 2012). Another article was based on facial emotion detection with audio for video capture (Krishna, 2013). It is important to note that although facial emotion recognition is a major step in the world of technology, however it also comes with caveats or even dangers as humanity becomes vulnerable to privacy risks (Andalibi et al, 2020).
 My coursework is therefore designed to help me understand the functionality of emotion detection, to which extremes can I teach my AI to learn, and can it learn so much that it would have a negative impact on testing.
 I based my programme off a tutorial on facial expression recognition using CNN (Kusawa, 2021). In this tutorial, Mr. Kusawa creates a basic neural network to train and validate the FER-2013 dataset (Sambare, n.d.). This works well in practice, however, as the test data is then later utilised to test the AI’s accuracy. This can cause false results as the AI will be aware of the test images, resulting in giving the AI a close to, if not 100% accuracy.
-To bypass this, I modified the code to train on 70% of the dataset while 30% is used for validating the trained AI. Another cell is then utilised to load and test the trained AI which is completely unaware of the test dataset to get accurate results. Unlike in the tutorial, I decided to make use of Google Colab as I was having considerable issues with python packages and IDEs. I also had issues with timeouts on Google Colab and therefore had to purchase the pro package for me to fully reach my goals in testing.<br><br>
+To bypass this, I modified the code to train on 70% of the dataset while 30% is used for validating the trained AI. Another cell is then utilised to load and test the trained AI which is completely unaware of the test dataset to get accurate results. Unlike in the tutorial, I decided to make use of Google Colab as I was having considerable issues with python packages and IDEs. I also had issues with timeouts on Google Colab and therefore had to purchase the pro package for me to fully reach my goals in testing.<br>
 
 # Data Specification
 ---
 As mentioned above, the FER-2013 dataset provided by Manas Sambare (n.d.) on the Kaggle platform was utilised. Although the dataset is mentioned within the tutorial, it was imperative to understand if this would meet personal justification for usage. The dataset is categorized in two folders “test” with 3589 images and “train” with 28709 images. Each folder contains 7 categories (angry, disgust, fear, happy, sad, surprise and neutral)(Sambare, n.d.). The images, although many, are very small. As I was making use of Google Colab, which can only retrieve data via Google Drive, it was therefore reasonable to stay with this set alone due to the small file sizes of the set. It also contains 6 universal facial expressions of emotion and a neutral state(Brooks et al, 2024) which ultimately is all that was needed to train the model.
-In code, the training images were split into 70% to be utilised for training, and 30% utilised for validation on how accurate the model had been trained. A separate cell is used to load and test the model.<br><br>
+In code, the training images were split into 70% to be utilised for training, and 30% utilised for validation on how accurate the model had been trained. A separate cell is used to load and test the model.<br>
 
 # Methodology
 ---
@@ -34,7 +31,7 @@ Lastly, the model is compiled and ready to be trained. The training was performe
 The results are then saved to a .json file followed by the trained weights to be saved as a .h5 file.
 The testing cell sets up a dictionary containing the emotions from the test folder within the dataset respectively and loads the .json and .h5 files containing the model and weights from the Google drive.
 The images are then pre-processed, compiled and tested against the model. The reason the test is self-contained within its own cell is so that the test is non-aware or biased toward the model being trained avoiding false results (Mohandas, n.d.).
-I initially toyed with the concept of utilising a webcam to attempt facial emotion detection on myself. However, when switching to Google Colab, I was unaware that webcam image capture is not possible as the platform is cloud based (Feekah, 2023) and finding a solution to this with the plethora of tests to be made, the idea was vetoed. The code has been left in the project to appreciate the effort.<br><br>
+I initially toyed with the concept of utilising a webcam to attempt facial emotion detection on myself. However, when switching to Google Colab, I was unaware that webcam image capture is not possible as the platform is cloud based (Feekah, 2023) and finding a solution to this with the plethora of tests to be made, the idea was vetoed. The code has been left in the project to appreciate the effort.<br>
 
 # Results and Conclusions
 ---
@@ -43,14 +40,14 @@ Starting from a tutorial helped me setup the project in an instant which I find 
 Utilising Python for the first time was also a difficult hurdle to pass, however with the aid of peers and family members, I slowly grasped the concept of the language. A lot of code had to be moved around to ensure that the testing would remain non-biased to the trained model.
 The performance fluctuated during the training/validation stages. This is due to the available memory on the Google Colab platform. After several timeouts on 18 epochs I made the decision to purchase the pro plan to have longer time out thresholds and better GPUs at my disposal. This dramatically reduced the training period and therefore more could be tested.
 
-I ended up training from 10 to 100 epochs which gave me the following results in accuracy during training in comparison to testing:<br><br>
-![testingOne](/assets/img/AI/100epochs.png){: width="400" .w-5 .normal}
-![testingtwo](/assets/img/AI/100epochs2.png){: width="400" .w-5 .normal}
+I ended up training from 10 to 100 epochs which gave me the following results in accuracy during training in comparison to testing:<br>
+![testingOne](/assets/img/AI/100epochs.png){: width="350" .w-5 .normal}
+![testingtwo](/assets/img/AI/100epochs2.png){: width="350" .w-5 .normal}
 
 I also logged the loss of both training and testing phases:
 
-![testingthree](/assets/img/AI/loss100.png){: width="400" .w-5 .normal}
-![testingfour](/assets/img/AI/loss1002.png){: width="400" .w-5 .normal}
+![testingthree](/assets/img/AI/loss100.png){: width="350" .w-5 .normal}
+![testingfour](/assets/img/AI/loss1002.png){: width="350" .w-5 .normal}
 
 There does not seem to be any limitation as to how much the AI could learn. I would consider that it is purely up to the limitations of the available hardware the AI is trained on.
 As to if the AI does tend to overlearn, I noticed during the training stages that the AI with 100 epochs (Appendix A) would have accuracies of 90%. This got me quite excited as to see how accurate the testing would be. Interestingly enough, the AI would not reach the 60% threshold when testing and showed similar results to the Trained AI with 50 epochs (Appendix B). Therefore, I would conclude that the AI does not necessarily overlearn and perform worse, but it does seem to limit itself when reaching a certain point in training.
