@@ -44,13 +44,13 @@ Utilising Python for the first time was also a difficult hurdle to pass, however
 The performance fluctuated during the training/validation stages. This is due to the available memory on the Google Colab platform. After several timeouts on 18 epochs I made the decision to purchase the pro plan to have longer time out thresholds and better GPUs at my disposal. This dramatically reduced the training period and therefore more could be tested.
 
 I ended up training from 10 to 100 epochs which gave me the following results in accuracy during training in comparison to testing:<br><br>
-![testingOne](/assets/img/AI/100epochs.png){: width="50" .w-5 .normal}
-![testingtwo](/assets/img/AI/100epochs2.png){: width="50" .w-5 .normal}
+![testingOne](/assets/img/AI/100epochs.png){: width="400" .w-5 .normal}
+![testingtwo](/assets/img/AI/100epochs2.png){: width="400" .w-5 .normal}
 
 I also logged the loss of both training and testing phases:
 
-![testingthree](/assets/img/AI/loss100.png){: width="50" .w-5 .normal}
-![testingfour](/assets/img/AI/loss1002.png){: width="50" .w-5 .normal}
+![testingthree](/assets/img/AI/loss100.png){: width="400" .w-5 .normal}
+![testingfour](/assets/img/AI/loss1002.png){: width="400" .w-5 .normal}
 
 There does not seem to be any limitation as to how much the AI could learn. I would consider that it is purely up to the limitations of the available hardware the AI is trained on.
 As to if the AI does tend to overlearn, I noticed during the training stages that the AI with 100 epochs (Appendix A) would have accuracies of 90%. This got me quite excited as to see how accurate the testing would be. Interestingly enough, the AI would not reach the 60% threshold when testing and showed similar results to the Trained AI with 50 epochs (Appendix B). Therefore, I would conclude that the AI does not necessarily overlearn and perform worse, but it does seem to limit itself when reaching a certain point in training.
