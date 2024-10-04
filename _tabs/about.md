@@ -20,31 +20,19 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 > Section under construction
 {: .prompt-danger }
 
-![cplusplus](/assets/img/logos/cplusplus.png){: width="50" height="50" .w-75 .left}
-![cpsharp](/assets/img/logos/csharp.png){: width="50" height="50"}
-![opengl](/assets/img/logos/opengl.png){: width="50" height="50"}
-![html](/assets/img/logos/html.png){: width="50" height="50" }
-![jekyll](/assets/img/logos/jekyll.png){: width="50" height="50" }
-![python](/assets/img/logos/python.png){: width="50" height="50" }
-![latex](/assets/img/logos/latex.png){: width="50" height="50"}
-![unity](/assets/img/logos/unity.png){: width="50" height="50"}
-![unrealengine](/assets/img/logos/unrealengine.png){: width="50" height="50"}
-![github](/assets/img/logos/github.png){: width="50" height="50"}
-![rider](/assets/img/logos/rider.png){: width="50" height="50"}
-![visualstudio](/assets/img/logos/visualstudio.png){: width="50" height="50"}
-![powershell](/assets/img/logos/powershell.png){: width="50" height="50"}
+Languages:
+    * C++
+    * C#
+    * HTML5
+    * Python
+    * LaTeX
 
-
-<img align="left" alt="cpp" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="cSharp" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="openGL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
-<img align="left" alt="html" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="jekyll" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" />
-<img align="left" alt="python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="latex" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
-<img align="left" alt="unity" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-<img align="left" alt="unrealEngine" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
-<img align="left" alt="gitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="rider" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />
-<img align="left" alt="visualStudio" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img align="left" alt="powerShell" width="50px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /><br>
+Tools:
+    * Unity
+    * Unreal Engine
+    * Jetbrains Rider
+    * Visual Studio
+    * Command Prompt
+    * Github
+    * OpenGL
+    * Jekyll
