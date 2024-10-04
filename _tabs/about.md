@@ -21,8 +21,8 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 {: .prompt-danger }
 
 Languages:<br>
-    - ![cplusplus](/assets/img/logos/cplusplus.png){: width="50" .w-25 .left} C++<br>
-    - ![cpsharp](/assets/img/logos/csharp.png){: width="50" height="50" .w-50 .left} C#<br>
+    ![cplusplus](/assets/img/logos/cplusplus.png){: width="50" .w-5 .left}
+    ![cpsharp](/assets/img/logos/csharp.png){: width="50" .w-5 .left}
     - ![html](/assets/img/logos/html.png){: width="50" height="50" .w-50 .left } HTML5<br>
     - ![python](/assets/img/logos/python.png){: width="50" height="50" .w-50 .left } Python<br>
     - ![latex](/assets/img/logos/latex.png){: width="50" height="50" .w-50 .left} LaTeX<br>
