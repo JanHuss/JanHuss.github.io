@@ -20,9 +20,9 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 > Section under construction
 {: .prompt-danger }
 
-![cplusplus](/assets/img/logos/cplusplus.png){: width="50" height="50" .w-75 .normal}
-![cpsharp](/assets/img/logos/csharp.png){: width="50" height="50" .w-75 .normal}
-![opengl](/assets/img/logos/opengl.png){: width="50" height="50" .w-75 .normal}
+![cplusplus](/assets/img/logos/cplusplus.png){: width="50" height="50" .w-50 .left}
+![cpsharp](/assets/img/logos/csharp.png){: width="50" height="50" .w-50 .left}
+![opengl](/assets/img/logos/opengl.png){: width="50" height="50" .w-50 .left}
 ![html](/assets/img/logos/html.png){: width="50" height="50" .w-75 .normal}
 ![jekyll](/assets/img/logos/jekyll.png){: width="50" height="50" .w-75 .normal}
 ![python](/assets/img/logos/python.png){: width="50" height="50" .w-75 .normal}
