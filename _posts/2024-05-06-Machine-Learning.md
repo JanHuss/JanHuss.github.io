@@ -40,7 +40,8 @@ Starting from a tutorial helped me setup the project in an instant which I find 
 Utilising Python for the first time was also a difficult hurdle to pass, however with the aid of peers and family members, I slowly grasped the concept of the language. A lot of code had to be moved around to ensure that the testing would remain non-biased to the trained model.
 The performance fluctuated during the training/validation stages. This is due to the available memory on the Google Colab platform. After several timeouts on 18 epochs I made the decision to purchase the pro plan to have longer time out thresholds and better GPUs at my disposal. This dramatically reduced the training period and therefore more could be tested.
 
-I ended up training from 10 to 100 epochs which gave me the following results in accuracy during training in comparison to testing:<br>
+I ended up training from 10 to 100 epochs which gave me the following results in accuracy during training in comparison to testing:
+
 ![testingOne](/assets/img/AI/100epochs.png){: width="350" .w-5 .normal}
 ![testingtwo](/assets/img/AI/100epochs2.png){: width="350" .w-5 .normal}
 
