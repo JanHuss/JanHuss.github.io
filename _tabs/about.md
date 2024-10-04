@@ -20,7 +20,7 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 > Section under construction
 {: .prompt-danger }
 
-![cplusplus](/assets/img/logos/cplusplus.png){: width="50" height="50"}
+![cplusplus](/assets/img/logos/cplusplus.png){: width="50" height="50" .w-75 .normal}
 ![cpsharp](/assets/img/logos/csharp.png){: width="50" height="50"}
 ![opengl](/assets/img/logos/opengl.png){: width="50" height="50"}
 ![html](/assets/img/logos/html.png){: width="50" height="50" }
