@@ -1,5 +1,5 @@
 ---
-title: A holistic approach toward building an audio engine for video games [Devlog #01]
+title: A holistic approach toward building an audio engine for video games [Devlog 01]
 description: The start of designing and building a game audio engine
 author: Jan
 date: 2024-10-07
