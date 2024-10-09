@@ -36,3 +36,7 @@ Tools:<br>
     ![sfml](/assets/img/logos/sfml-icon-big.png){: width="50" .w-5 .left}
     ![opengl](/assets/img/logos/opengl.png){: width="50" .w-5 .left}
     ![jekyll](/assets/img/logos/jekyll.png){: width="50" .w-5 .left}
+    ![ableton](/assets/img/logos/ableton.png){: width="50" .w-5 .left}
+    ![reaper](/assets/img/logos/reaper.png){: width="50" .w-5 .left}
+    ![fmod](/assets/img/logos/fmod.png){: width="50" .w-5 .left}
+    ![wwise](/assets/img/logos/wwise.png){: width="50" .w-5 .left}
