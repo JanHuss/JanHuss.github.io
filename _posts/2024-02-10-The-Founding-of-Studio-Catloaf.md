@@ -12,3 +12,5 @@ The development is still ongoing and this post will continue to be updated as ti
 Currently, we are in the process of developing a demo ready to be pitched to publishers. This demo will have a 25-30 minute gameplay experience, although, players will be able to roam around the areas for longer if they may and it will be available to the public.
 
 My roles at the company are Audio Programming, Sound Design, Composition and Production. Every day is school day which makes this project so enjoyable. I mostly have learned a lot from production in how to help my colleagues focus on the most important tasks at hand. Understanding the elements withing the field of Audio Programming has also been an amazing learning experience.
+
+![UML](/assets/img/logos/StudioCatloaf-Circle.png)
