@@ -3,7 +3,7 @@ title: Fuzzy Logic
 description: AI Coursework using Fuzzy Logic
 author: Jan
 date: 2024-03-24
-categories: [PROGRAMMING, AI]
+categories: [02. PROGRAMMING, AI]
 tags: [coursework, abertay, ai, fuzzy, logic, csharp]
 ---
 
