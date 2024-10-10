@@ -16,7 +16,7 @@ include a turn based combat and so am looking at different combat systems. There
 wanted to put a personal spin on a turn based combat system and see what works and what
 does not. This mechanic was referenced from a YouTube tutorial by Ryan Laley who makes
 entire mechanics in Unreal Engine blueprints. The blueprints were afterward converted into
-C++.
+C++.<br><br>
 
 # Link to Gameplay Video Presentation
 
