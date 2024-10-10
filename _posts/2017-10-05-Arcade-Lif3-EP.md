@@ -3,7 +3,7 @@ title: Arcade Lif<3 EP
 description: First released EP
 author: Jan
 date: 2017-10-05
-categories: [MUSIC PRODUCTION, COMPOSITION]
+categories: [4. MUSIC PRODUCTION, COMPOSITION]
 tags: [musicproduction, jphuzzle]
 ---
 
