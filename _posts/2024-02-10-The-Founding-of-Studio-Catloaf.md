@@ -1,5 +1,5 @@
 ---
-title: Book of Abominations [Milestone 02]
+title: The founding of Studio Catloaf [Milestone 02]
 description: The second hurdle in our journey to building an awesome game
 author: Jan
 date: 2024-02-10
