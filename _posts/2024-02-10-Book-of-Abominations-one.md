@@ -3,7 +3,7 @@ title: Book of Abominations [Milestone 2]
 description: The second hurdle in our journey to building an awesome game
 author: Jan
 date: 2023-02-10
-categories: [PROGRAMMING, BOOK OF ABOMINATIONS]
+categories: [3. GAME DEVELOPMENT, BOOK OF ABOMINATIONS]
 tags: [game, development, sounddesign, devlog, milestonelog]
 ---
 After winning Dare Academy, we decided to keep the momentum going and kept development of Book of Abominations going. We expanded the team by 100% by adding a programmer and designer to the mix and formed a company "Studio Catloaf".
