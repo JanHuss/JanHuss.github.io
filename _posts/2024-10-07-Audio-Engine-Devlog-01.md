@@ -3,7 +3,7 @@ title: A holistic approach toward building an audio engine for video games [Devl
 description: The start of designing and building a game audio engine
 author: Jan
 date: 2024-10-07
-categories: [PROGRAMMING, AUDIO ENGINE DEVLOG]
+categories: [01. Audio PROGRAMMING, AUDIO ENGINE DEVLOG]
 tags: [game, development, audio, engine, honours, university, devlog, dsp, memory management]
 ---
 
