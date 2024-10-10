@@ -1,5 +1,5 @@
 ---
-title: Book of Abominations [Milestone 2]
+title: Book of Abominations [Milestone 02]
 description: The second hurdle in our journey to building an awesome game
 author: Jan
 date: 2024-02-10
