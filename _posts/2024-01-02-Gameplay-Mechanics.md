@@ -7,7 +7,6 @@ categories: [2. PROGRAMMING, GAMEPLAY MECHANICS]
 tags: [coursework, abertay, c++, unreal engine, blueprints, conversion]
 ---
 # Introduction
-
 For my coursework, I chose to focus on a Final Fantasy styled turn based combat gameplay
 mechanic with an action timer. I am an avid Final Fantasy player and loved the Active Time
 Battle concept Square Enix had used for their combat mechanics in the past
@@ -16,24 +15,20 @@ include a turn based combat and so am looking at different combat systems. There
 wanted to put a personal spin on a turn based combat system and see what works and what
 does not. This mechanic was referenced from a YouTube tutorial by Ryan Laley who makes
 entire mechanics in Unreal Engine blueprints. The blueprints were afterward converted into
-C++.<br><br>
+C++.
 
 # Link to Gameplay Video Presentation
-
 {% include embed/youtube.html id='DMTATTaozkw' %}
 
 # Clarification
-
 The term “character” will be used frequently throughout this documentation. This refers to
 the models within the player and enemy parties.
 
-#Resources
-
+# Resources
 The Mechanic is based on a blueprint tutorial found on youtube and the models and
 animations are sourced from Adobe’s Mixamo website.
 
 # Summary
-
 In this mechanic, the player is greeted by a scene containing 6 characters, 3 player
 characters and 3 enemy characters. The player party names, health and action timer bars
 are displayed in the bottom right corner. Once the action timers fill, a target window menu
@@ -46,7 +41,6 @@ the enemy, triggering attack and hit animations for the characters. A series of 
 calculations determine how strong, fast and resilient a character is.
 
 # The Game
-
 The inspiration for this mechanic comes from many turn based combat systems, ranging
 from Pokemon (Vintage is the New Old, 2023) to Golden Sun(Chinn, 2021) to Wargroove
 (Wargroove, n.d.) and Advance Wars (Castle23clash, 2023). Although a lot of inspiration is
@@ -64,8 +58,7 @@ more and plan ahead as the enemy could lash out with a devastating blow at any t
 The mechanic for this game is based on Active Time Battle and Turn Based Combat
 systems.
 
-#The Rules
-
+# The Rules
 The rules for the combat mechanic’s work in a sequential order:
 1. A speed calculation, based on the character's speed stat determines all 6 character’s
 initiative order. Starting from highest to lowest speed, the characters will be stored in
@@ -89,7 +82,6 @@ the array resolves their attack.
 round takes place.
 
 # Mechanic Specifications
-
 Although this mechanic is based on a blueprint tutorial, converting this mechanic into C++
 was not an easy task. The project contains a multitude of base and inherited classes.
 Therefore, for a sense of clarity the classes will be explained individually rather than what
@@ -225,7 +217,6 @@ value
 
 
 # Technical Discussion & Development
-
 I have only opened Unreal Engine a handful of times in the past. Therefore, I was very much
 going into the project blind. As Unreal Engine 5 can be daunting beyond description, I
 approached the development by first researching how convoluted blueprints can be if one is
@@ -245,13 +236,11 @@ was not possible to look into optimisation. However, with the time that I had an
 many situations of breaking the game, the project was converted successfully.
 
 # UML Diagram
-
 ![UML](/assets/img/UMLs/GamePlayMechanics-UML.png)
 
 The UML diagram is also in the submission folder due to its size
 
 # Conclusion
-
 To conclude, I found this project incredibly insightful. I created my first mechanic in Unreal
 Engine by converting blueprints into code. A task I now appreciate much more. I also feel I
 have become more accurate when researching specific nodes in blueprints and code in C++.
