@@ -3,7 +3,7 @@ title: Oh, Wrong Number!
 description: First released track
 author: Jan
 date: 2022-06-17
-categories: [PROGRAMMING, GAME DEVELOPMENT]
+categories: [3. GAME DEVELOPMENT]
 tags: [game, development, sounddesign]
 ---
 Oh, Wrong Number! is the result of the 48 hour GMTK Game Jam 2022.
