@@ -3,7 +3,7 @@ title: Honours Project in Music Production and Sound Engineering
 description: The final hurdle to completing my Honours Degree
 author: Jan
 date: 2020-12-11
-categories: [4. MUSIC PRODUCTION]
+categories: [4. MUSIC PRODUCTION, SOUND DESIGN FOR GAMES]
 tags: [musicproduction, sounddesign, videogames, foley]
 ---
 As part of my honours dissertation, I decided to recreate the soundscapes and SFX of a cinematic video. I chose ADAM: Episode One to be this video, removed all of the audio from it without ever hearing its original sound and built my own environment of sound based on what I was feeling from the footage.
