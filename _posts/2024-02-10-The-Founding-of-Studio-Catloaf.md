@@ -13,4 +13,4 @@ Currently, we are in the process of developing a demo ready to be pitched to pub
 
 My roles at the company are Audio Programming, Sound Design, Composition and Production. Every day is school day which makes this project so enjoyable. I mostly have learned a lot from production in how to help my colleagues focus on the most important tasks at hand. Understanding the elements withing the field of Audio Programming has also been an amazing learning experience.
 
-![catloaf](/assets/img/logos/StudioCatloaf-Circle.png){: width="200" .w-5 .left }
+![catloaf](/assets/img/Company/StudioCatloaf-Circle.png){: width="200" .w-5 .left }
