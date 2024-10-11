@@ -4,12 +4,12 @@
 (2. DATA STRUCTURES AND ALGORITHMS)
       └── Lists
       └── Trees
-3. Game Development
+2. Game Development
       └── Boof of Abominations
       └── Collaborations
       └── GameJams
       └── Solo Projects
-4. University
+3. University
       └── Lab and Research Assistant
       └── AI
       └── Graphics
