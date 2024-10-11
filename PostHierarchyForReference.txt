@@ -1,17 +1,20 @@
-1. AUDIO PROGRAMMING
-      └── AUDIO ENGINE DEVLOG
-      └── LAB ASSISTANT
-2. PROGRAMMING
-      └── AI
-      └── MATHEMATICS
+1. Audio Programming
+      └── Audio Engine Devlog
+      
 (2. DATA STRUCTURES AND ALGORITHMS)
-      └── LISTS
-      └── TREES
-3. GAME DEVELOPMENT
-      └── BOOK OF ABOMINATIONS
-      └── COLLABORATIONS
-      └── SOLO PROJECTS
-4. MUSIC PRODUCTION
-      └── COMPOSITIONS
-      └── PERFORMANCES
-      └── SOUND DESIGN FOR VIDEO GAMES
+      └── Lists
+      └── Trees
+3. Game Development
+      └── Boof of Abominations
+      └── Collaborations
+      └── GameJams
+      └── Solo Projects
+4. University
+      └── Lab and Research Assistant
+      └── AI
+      └── Graphics
+      
+4. Music Production
+      └── Compositions
+      └── Perfomances
+      └── Sound Design for Video Games
