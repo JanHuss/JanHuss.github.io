@@ -117,7 +117,7 @@ Now you can clone the repo! To do so, go to your repository and copy the link un
 > !!! INSERT IMAGE HERE !!!
 {: .prompt-warning }
 
-![cloneurl](/assets/img/tutorials/cmdprmt/cloneurl.png){: width="600"}
+![cloneurl](/assets/img/tutorials/cmdprmt/cloneUrl.png){: width="600"}
 
 Back on command line type the following
 
