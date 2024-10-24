@@ -40,8 +40,10 @@ The issue with this is that you will automatically have your directory set to th
 
 To change the directory:
 1. Go to the folder location and copy its directory
-   > !!! INSERT IMAGE HERE !!!
-  {: .prompt-warning }
+
+> !!! INSERT IMAGE HERE !!!
+{: .prompt-warning }
+
 2. Then return to the command prompt and type:
 
 ```text
