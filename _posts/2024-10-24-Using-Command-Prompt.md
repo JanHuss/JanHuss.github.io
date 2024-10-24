@@ -122,7 +122,7 @@ Command prompt will start downloading the repository for you. Once finished down
 Well done! You have cloned your repo! That wasn't that hard right? But what if you make changes to the repo? Well let's look at that next
 
 ## Pushing changes to the repository
-Once you have made changes to the repo load command prompt if you have closed it and set the directory back to your repo location. Check the [Changing the directory - The quickest way]{#qw} section of this post.
+Once you have made changes to the repo load command prompt if you have closed it and set the directory back to your repo location. Check the [Changing the directory - The quickest way] {#qw} section of this post.
 
 Now type: 
 
