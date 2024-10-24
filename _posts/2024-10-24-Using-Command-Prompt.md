@@ -4,7 +4,7 @@ description: A little guide to using Command Prompt for GitHub repos
 author: Jan
 date: 2024-10-24
 categories: [5. Guides, Command Line Interface]
-tags: [command line interface, guide, tutorial, command prompt]
+tags: [command line interface, tutorial, command prompt]
 ---
 # Overview
 Starting off with any Command Line Interface (CLI) can feel as daunting as ever. This guide is to help you get started using command prompt for your Github repos.
