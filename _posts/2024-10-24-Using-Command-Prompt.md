@@ -74,7 +74,7 @@ To change the directory:
 > !!! INSERT IMAGE HERE !!!
 {: .prompt-warning }
 
-
+![copydir](/assets/img/tutorials/cmdprmt/copydir.png){: width="600"}
 
 2. Then return to the command prompt and type:
 
@@ -187,3 +187,4 @@ git merge <branch name here>
 
 ## Conclusion
 So let's wrap up here. I hope that this little guide has given you a bit more confidence in using command prompt! There are so many other CLI out there such as GitBash and PowerShell. Not only do CLI give you ultimate flexibility in managing your repository, but you can also feel like a **Matrix god diving into the "Main Frame"** lol. 
+Big thanks to [David Findlay](https://www.linkedin.com/in/david-findlay-98518832b/) for introducing me to CLI and showing me how to use it! 
