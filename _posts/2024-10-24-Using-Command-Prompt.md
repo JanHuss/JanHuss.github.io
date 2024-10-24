@@ -36,7 +36,7 @@ Starting off with any Command Line Interface (CLI) can feel as daunting as ever.
 > If there is something that hasn't been covered in this blog, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/janhuss/) and let me know, thanks =)
 {: .prompt-info }
 
-![dir1](/assets/img/tutorials/cmdprmt/dir1.png){: width="200" .w-5 .left }
+![dir1](/assets/img/tutorials/cmdprmt/dir1.png){: width="600" .w-5 .normal }
 
 Once you have setup your repository on GitHub, create a folder in the location you would like your repo to be stored in.
 
