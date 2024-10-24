@@ -3,7 +3,7 @@ title: Graphics Programming with Directx3D11 using shaders
 description: A proper jump into graphics programming
 author: Jan
 date: 2023-12-06
-categories: [2. PROGRAMMING, GRAPHICS]
+categories: [2. Programming, Graphics]
 tags: [coursework, abertay, graphics, directx3d11, shaders, c++, renderdoc, nsight]
 ---
 
