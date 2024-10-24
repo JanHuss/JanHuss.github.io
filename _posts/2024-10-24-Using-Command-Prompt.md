@@ -36,6 +36,8 @@ Starting off with any Command Line Interface (CLI) can feel as daunting as ever.
 > If there is something that hasn't been covered in this blog, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/janhuss/) and let me know, thanks =)
 {: .prompt-info }
 
+![catloaf](/assets/img/tutorials/cmdprmt/dir1){: width="400" .w-5 .normal }
+
 Once you have setup your repository on GitHub, create a folder in the location you would like your repo to be stored in.
 
 Next, we need to load command prompt. There are several ways to do this. I'll go through the quickest way first:
