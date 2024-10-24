@@ -63,7 +63,7 @@ cd /d <paste directory in here>
 
 Hit enter
 
-## Changing directory back to `C:` drive
+## Changing directory - to `C:` drive
 To change back to the `C:` drive just type 
 
 ```text
@@ -71,3 +71,24 @@ C:
 ```
 
 Hit enter
+
+## Initialise git
+In order for the directory to communicate with the GitHub repo, you will need to initialise it
+
+```text
+git init
+```
+
+## Clone repo
+Now you can clone the repo! To do so, go to your repository and copy the link under the green `Code` button by pressing the copy button as shown in the image
+
+> !!! INSERT IMAGE HERE !!!
+{: .prompt-warning }
+
+Back on command line type the following
+
+```text
+git clone <paste URL here
+```
+
+and hit enter
