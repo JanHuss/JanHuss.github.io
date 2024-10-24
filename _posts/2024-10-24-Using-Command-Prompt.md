@@ -35,7 +35,7 @@ To change the directory:
 1. Go to the folder location and copy its directory
 2. Then return to the command prompt and type:
 
-```text
+```cmd
 cd <paste directory in here>
 ```
 
