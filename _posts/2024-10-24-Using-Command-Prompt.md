@@ -16,7 +16,7 @@ Once you have setup your repository on GitHub, create a folder in the location y
 
 Next, we need to load command prompt. There are several ways to do this. I'll go through the quickest way first:
 
-## The quickest way
+## Changing the directory - The quickest way
 
 1. While in the folder, press `ctrl + l` to highlight the directory
 2. Type `cmd` and hit `enter` on the keyboard
@@ -26,4 +26,31 @@ Next, we need to load command prompt. There are several ways to do this. I'll go
 
 The command prompt will launch and be set to the drive and directory of the folder you called it from
 
-## The longer way
+## Changing the directory - The longer way
+
+Another way to open command prompt is by pressing the `Windows` icon and typing it out then select it.
+The issue with this is that you will automatically have your directory set to the default location, which you probably don't want.
+
+To change the directory:
+1. Go to the folder location and copy its directory
+2. Then return to the command prompt and type:
+``` cmd
+cd <paste directory in here>
+```
+3. Then hit enter
+
+You should now see that the directory has changed.
+
+## Changing the directory to a different drive
+If you would like to change the directory to a different drive, for example from `C:` to `D:`, then you will need to add a few characters:
+``` cmd
+cd /d <paste directory in here>
+```
+Hit enter
+
+## Changing directory back to `C:` drive
+To change back to the `C:` drive just type 
+``` cmd
+C:
+```
+Hit enter
