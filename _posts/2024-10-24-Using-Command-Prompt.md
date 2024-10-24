@@ -34,23 +34,29 @@ The issue with this is that you will automatically have your directory set to th
 To change the directory:
 1. Go to the folder location and copy its directory
 2. Then return to the command prompt and type:
-``` cmd
+
+```text
 cd <paste directory in here>
 ```
+
 3. Then hit enter
 
 You should now see that the directory has changed.
 
 ## Changing the directory to a different drive
 If you would like to change the directory to a different drive, for example from `C:` to `D:`, then you will need to add a few characters:
+
 ``` cmd
 cd /d <paste directory in here>
 ```
+
 Hit enter
 
 ## Changing directory back to `C:` drive
 To change back to the `C:` drive just type 
+
 ``` cmd
 C:
 ```
+
 Hit enter
