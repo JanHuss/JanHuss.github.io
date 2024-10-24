@@ -36,7 +36,7 @@ Starting off with any Command Line Interface (CLI) can feel as daunting as ever.
 > If there is something that hasn't been covered in this blog, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/janhuss/) and let me know, thanks =)
 {: .prompt-info }
 
-![catloaf](/assets/img/tutorials/cmdprmt/dir1){: width="400" .w-5 .normal }
+![dir1](/assets/img/tutorials/cmdprmt/dir1.png){: width="200" .w-5 .left }
 
 Once you have setup your repository on GitHub, create a folder in the location you would like your repo to be stored in.
 
@@ -114,7 +114,7 @@ Now you can clone the repo! To do so, go to your repository and copy the link un
 Back on command line type the following
 
 ```text
-git clone <paste URL here
+git clone <paste URL here>
 ```
 
 and hit enter.
