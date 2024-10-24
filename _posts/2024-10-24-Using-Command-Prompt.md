@@ -8,17 +8,27 @@ tags: [command line interface, tutorial, command prompt]
 ---
 # List of my most used command line commands
 
-| Command                      | Description                  |
-| :--------------------------- | :--------------------------- |
-| git init                     | initialises git              |
-| git status                   | status of current commit     |
-| git add<file>                | include a file to the commit | 
-
-| Company                      | Contact          | Country |
-| :--------------------------- | :--------------- | ------: |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    |      UK |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
+| Command                                           | Description                       |
+| :------------------------------------------------ | :-------------------------------- |
+| git init                                          | initialises git                   |
+| git status                                        | status of current commit          |
+| git add<file>                                     | include a file to the commit      |   
+| git add .                                         | add all untracked files           |
+| git commit -m "commit message here                | commits all the tracked files     |
+| git log                                           | display commit log                |
+|                                                   |                                   |
+| git checkout <branch name>                        | switch branch                     |
+| git branch                                        | show branches log                 |
+| git branch <branch name>                          | create new branch                 |
+| git merge <branch name>                           | merge branch into master          |
+| git branch -d <branch name>                       | delete branch                     |
+|                                                   |                                   |
+| git remote add origin <url>                       | connect local dir to GitHub repo  |
+| git push -u origin master                         | push master to repo               |
+| git pull <url>                                    | pulls new commits and merges      |
+|                                                   |                                   |
+| git stash save <--keep-index --include-untracked> | save uncommited changes to stash  |
+| git stash drop                                    | drop changes                      |
 
 # Overview
 Starting off with any Command Line Interface (CLI) can feel as daunting as ever. This guide is to help you get started using command prompt for your Github repos.
