@@ -59,14 +59,14 @@ Another way to open command prompt is by pressing the `Windows` icon and typing 
 > !!! INSERT IMAGE HERE !!!
 {: .prompt-warning }
 
-![dir2](/assets/img/tutorials/cmdprmt/dir2.png){: width="600"}
+![dir2](/assets/img/tutorials/cmdprmt/dir2.png){: width="200"}
 
 The issue with this is that you will automatically have your directory set to the default location, which you probably don't want.
 
 > !!! INSERT IMAGE HERE !!!
 {: .prompt-warning }
 
-
+![wrongdir](/assets/img/tutorials/cmdprmt/wrongdir.png){: width="600"}
 
 To change the directory:
 1. Go to the folder location and copy its directory
