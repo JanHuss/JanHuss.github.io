@@ -111,9 +111,10 @@ Make sure there is a space between `add` and `.`
 Then type:
 
 ```text
-git commit -m"add a commit message here. People usually write what changes have been made to this commit"
+git commit -m"add a commit message here."
 ```
 
+People usually write what changes have been made since the last commit.
 With that, your changes are ready to be pushed to the main branch, so let's do that:
 
 ```text
