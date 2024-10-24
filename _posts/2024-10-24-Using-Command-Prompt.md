@@ -6,6 +6,13 @@ date: 2024-10-24
 categories: [5. Guides, Command Line Interface]
 tags: [command line interface, tutorial, command prompt]
 ---
+# List of my most used command line commands
+| Command                      | Description          |
+| :--------------------------- | -------------------: |
+| git init                     | initialises git      |
+| git status                   | status of current commit    |
+| git add<file>                | include a file to the commit | 
+
 # Overview
 Starting off with any Command Line Interface (CLI) can feel as daunting as ever. This guide is to help you get started using command prompt for your Github repos.
 
