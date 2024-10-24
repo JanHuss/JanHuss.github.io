@@ -4,7 +4,7 @@ description: The start of designing and building a game audio engine
 author: Jan
 date: 2024-10-07
 categories: [01. Audio Programming, Audio Engine Devlog]
-tags: [game, development, audio, engine, honours, university, devlog, dsp, memory management]
+tags: [game development, audio engine, honours, abertay, devlog, dsp, memory management]
 ---
 
 This devlog is made to log my progress in designing and building an audio engine for video games.
