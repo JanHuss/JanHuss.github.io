@@ -3,8 +3,8 @@ title: DNA - Data Not Available
 description: First released album
 author: Jan
 date: 2019-05-01
-categories: [4. MUSIC PRODUCTION, COMPOSITIONS]
-tags: [musicproduction, jphuzzle]
+categories: [4. Music Production, Compositions]
+tags: [music production, sound design, jphuzzle]
 ---
 
 After the Blue Dot festival, I made a decision to release an album. The concept was a 12 track album with the style of chiptune meets progressive house. The names of the sounds were a tribute to the artist Deadmau5 who has often mentioned his hatred to naming things.
