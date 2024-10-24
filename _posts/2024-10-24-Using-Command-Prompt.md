@@ -36,8 +36,6 @@ Starting off with any Command Line Interface (CLI) can feel as daunting as ever.
 > If there is something that hasn't been covered in this blog, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/janhuss/) and let me know, thanks =)
 {: .prompt-info }
 
-![dir1](/assets/img/tutorials/cmdprmt/dir1.png){: width="600" .w-5 .normal }
-
 Once you have setup your repository on GitHub, create a folder in the location you would like your repo to be stored in.
 
 Next, we need to load command prompt. There are several ways to do this. I'll go through the quickest way first:
@@ -50,6 +48,8 @@ Next, we need to load command prompt. There are several ways to do this. I'll go
 > !!! INSERT IMAGE HERE !!!
 {: .prompt-warning }
 
+![dir1](/assets/img/tutorials/cmdprmt/dir1.png){: width="600" .w-5 .normal }
+
 The command prompt will launch and be set to the drive and directory of the folder you called it from
 
 ## Changing the directory - The longer way
@@ -59,16 +59,22 @@ Another way to open command prompt is by pressing the `Windows` icon and typing 
 > !!! INSERT IMAGE HERE !!!
 {: .prompt-warning }
 
+![dir2](/assets/img/tutorials/cmdprmt/dir2.png){: width="600" .w-5 .normal }
+
 The issue with this is that you will automatically have your directory set to the default location, which you probably don't want.
 
 > !!! INSERT IMAGE HERE !!!
 {: .prompt-warning }
+
+![wrongdir](/assets/img/tutorials/cmdprmt/wrongdir.png){: width="600" .w-5 .normal }
 
 To change the directory:
 1. Go to the folder location and copy its directory
 
 > !!! INSERT IMAGE HERE !!!
 {: .prompt-warning }
+
+![copydir](/assets/img/tutorials/cmdprmt/copydir.png){: width="600" .w-5 .normal }
 
 2. Then return to the command prompt and type:
 
@@ -110,6 +116,8 @@ Now you can clone the repo! To do so, go to your repository and copy the link un
 
 > !!! INSERT IMAGE HERE !!!
 {: .prompt-warning }
+
+![cloneurl](/assets/img/tutorials/cmdprmt/cloneurl.png){: width="600" .w-5 .normal }
 
 Back on command line type the following
 
