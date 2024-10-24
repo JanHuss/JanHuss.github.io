@@ -121,5 +121,35 @@ With that, your changes are ready to be pushed to the main branch, so let's do t
 git push
 ```
 
-And with that you will be able to see the changes made on your Github repository
+And with that you will be able to see the changes made on your Github repository.
 
+## Pulling git repo
+Let's say you made changes to the repo on a different device and you want to pull the changed contents onto your home computer.
+
+```text
+git pull
+```
+
+That is all.
+
+## Creating a branch
+So far, we have been pushing and pulling from the `main` branch. That's not considered good practice.
+In a real world scenario, each developer would work on a branch until the new feature is implemented.
+**Only** then would they merge their changes to the `main` branch.
+
+So let's create a new branch! I mean we're confident with command prompt by now, right?
+
+```text
+git checkout -b <name your branch>
+```
+
+To ensure that people know what you're working on, it's good practice to name your branch accordingly.
+
+When you're ready to merge your branch to `main`:
+
+```text
+git merge <branch name here>
+```
+
+## Conclusion
+So let's wrap up here. I hope that this little guide has given you a bit more confidence in using command prompt! There are so many other CLI out there such as GitBash and PowerShell. Not only do CLI give you ultimate flexibility in managing your repository, but you can also feel like a **Matrix god diving into the "Main Frame"** lol. 
