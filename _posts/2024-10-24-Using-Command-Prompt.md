@@ -117,7 +117,7 @@ Now you can clone the repo! To do so, go to your repository and copy the link un
 > !!! INSERT IMAGE HERE !!!
 {: .prompt-warning }
 
-
+![cloneurl](/assets/img/tutorials/cmdprmt/cloneurl.png){: width="600"}
 
 Back on command line type the following
 
@@ -186,5 +186,5 @@ git merge <branch name here>
 ```
 
 ## Conclusion
-So let's wrap up here. I hope that this little guide has given you a bit more confidence in using command prompt! There are so many other CLI out there such as GitBash and PowerShell. Not only do CLI give you ultimate flexibility in managing your repository, but you can also feel like a **Matrix god diving into the "Main Frame"** lol. 
+So let's wrap up here. I hope that this little guide has given you a bit more confidence in using command prompt! There are so many other CLI out there such as GitBash and PowerShell. Not only do CLI give you ultimate flexibility in managing your repository, but you can also feel like a **"Matrix god diving into the "Main Frame"** lol. 
 Big thanks to [David Findlay](https://www.linkedin.com/in/david-findlay-98518832b/) for introducing me to CLI and showing me how to use it! 
