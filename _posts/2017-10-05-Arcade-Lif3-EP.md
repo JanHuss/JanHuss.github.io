@@ -4,7 +4,7 @@ description: First released EP
 author: Jan
 date: 2017-10-05
 categories: [4. Music Production, Compositions]
-tags: [musicproduction, jphuzzle]
+tags: [music production, sound design, composition, jphuzzle]
 ---
 
 For my final course assignment during my time at the Manchester MIDI School (now School of Electronic Music), I was given free reign as to what I would like to compose. I thought it would be nice to create an EP consisting of 3 tracks. I really enjoy chip tune but also enjoy club music such as dubstep drum and bass and progressive house. Therefore, the idea was to make 3 club tunes, infused with chiptune.
