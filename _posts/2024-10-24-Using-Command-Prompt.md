@@ -48,7 +48,7 @@ Next, we need to load command prompt. There are several ways to do this. I'll go
 > !!! INSERT IMAGE HERE !!!
 {: .prompt-warning }
 
-![dir1](/assets/img/tutorials/cmdprmt/dir1.png){: width="600" .w-5 .normal }
+
 
 The command prompt will launch and be set to the drive and directory of the folder you called it from
 
