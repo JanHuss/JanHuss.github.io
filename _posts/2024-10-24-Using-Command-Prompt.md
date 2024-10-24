@@ -7,7 +7,7 @@ categories: [5. Guides, Command Line Interface]
 tags: [command line interface, guide, tutorial, command prompt]
 ---
 # Overview
-This guide is to help you get started using command prompt for your Github repos.
+Starting off with any Command Line Interface (CLI) can feel as daunting as ever. This guide is to help you get started using command prompt for your Github repos.
 
 > If there is something that hasn't been covered in this blog, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/janhuss/) and let me know, thanks =)
 {: .prompt-info }
@@ -28,14 +28,23 @@ The command prompt will launch and be set to the drive and directory of the fold
 
 ## Changing the directory - The longer way
 
-Another way to open command prompt is by pressing the `Windows` icon and typing it out then select it.
+Another way to open command prompt is by pressing the `Windows` icon and typing out `command prompt` or `cmd` and then select it.
+
+> !!! INSERT IMAGE HERE !!!
+{: .prompt-warning }
+
 The issue with this is that you will automatically have your directory set to the default location, which you probably don't want.
+
+> !!! INSERT IMAGE HERE !!!
+{: .prompt-warning }
 
 To change the directory:
 1. Go to the folder location and copy its directory
+   > !!! INSERT IMAGE HERE !!!
+  {: .prompt-warning }
 2. Then return to the command prompt and type:
 
-```cmd
+```text
 cd <paste directory in here>
 ```
 
@@ -46,7 +55,7 @@ You should now see that the directory has changed.
 ## Changing the directory to a different drive
 If you would like to change the directory to a different drive, for example from `C:` to `D:`, then you will need to add a few characters:
 
-``` cmd
+```text
 cd /d <paste directory in here>
 ```
 
@@ -55,7 +64,7 @@ Hit enter
 ## Changing directory back to `C:` drive
 To change back to the `C:` drive just type 
 
-``` cmd
+```text
 C:
 ```
 
