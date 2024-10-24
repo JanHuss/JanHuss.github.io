@@ -3,7 +3,7 @@ title: Gameplay Mechanics
 description: An initial dive into gameplay mechanics using Unreal Engine
 author: Jan
 date: 2023-12-11
-categories: [2. PROGRAMMING, GAMEPLAY MECHANICS]
+categories: [2. Programming, Gameplay Mechanics]
 tags: [coursework, abertay, c++, unreal engine, blueprints, conversion]
 ---
 # Introduction
