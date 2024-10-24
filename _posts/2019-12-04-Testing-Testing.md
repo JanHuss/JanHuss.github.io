@@ -3,8 +3,8 @@ title: Testing Testing
 description: A little EP created for a module at Point Blank
 author: Jan
 date: 2019-12-04
-categories: [4. MUSIC PRODUCTION, COMPOSITIONS]
-tags: [musicproduction, jphuzzle]
+categories: [4. Music Production, Compositions]
+tags: [music production, sound design, jphuzzle]
 ---
 
 During an online module at Point Blank Music School, I was tasked with producing three different tracks using three different approaches. I chose to produce a hip hop track fully based on samples, an ambient track in which I pulled self created sounds to their maximum and a dubstep track fully based on sound design.
