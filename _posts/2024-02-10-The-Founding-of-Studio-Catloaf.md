@@ -4,7 +4,7 @@ description: The second hurdle in our journey to building an awesome game
 author: Jan
 date: 2024-02-10
 categories: [3. GAME DEVELOPMENT, BOOK OF ABOMINATIONS]
-tags: [game, development, sounddesign, devlog, teamwork, c#, fmod, unity]
+tags: [game development, sound design, devlog, teamwork, c#, fmod, unity, company]
 ---
 After winning Dare Academy, we decided to kept the momentum and development of Book of Abominations going. We expanded the team by 100% by adding a programmer and designer to the mix and formed a company "Studio Catloaf".
 
