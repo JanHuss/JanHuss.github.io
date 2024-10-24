@@ -91,4 +91,34 @@ Back on command line type the following
 git clone <paste URL here
 ```
 
-and hit enter
+and hit enter.
+
+Command prompt will start downloading the repository for you. Once finished downloading, check the directory if the contents of your repo are there.
+
+Well done! You have cloned your repo! That wasn't that hard right? But what if you make changes to the repo? Well let's look at that next
+
+## Pushing changes to the repository
+Once you have made changes to the repo load command prompt if you have closed it and set the directory back to your repo location. Check the [[## Changing the directory - The quickest way]] section of this post.
+
+Now type: 
+
+```text
+git add .
+```
+
+Make sure there is a space between `add` and `.`
+
+Then type:
+
+```text
+git commit -m"add a commit message here. People usually write what changes have been made to this commit"
+```
+
+With that, your changes are ready to be pushed to the main branch, so let's do that:
+
+```text
+git push
+```
+
+And with that you will be able to see the changes made on your Github repository
+
