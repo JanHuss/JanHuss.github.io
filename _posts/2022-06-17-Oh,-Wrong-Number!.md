@@ -3,8 +3,8 @@ title: Oh, Wrong Number!
 description: First released track
 author: Jan
 date: 2022-06-17
-categories: [3. GAME DEVELOPMENT, COLLABORATIONS]
-tags: [game, development, sounddesign]
+categories: [3. Game Development, Collaborations]
+tags: [game development, sound design]
 ---
 Oh, Wrong Number! is the result of the 48 hour GMTK Game Jam 2022.
 The prompt was "The roll of the dice". This project was a major milestone for the both of us. Never had we attempted a game jam before. However, after being abandoned by the musician almost instantly, we decided to try and complete non the less.
