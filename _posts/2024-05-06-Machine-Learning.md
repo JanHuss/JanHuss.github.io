@@ -4,7 +4,7 @@ description: AI Coursework - Machine Learning
 author: Jan
 date: 2024-05-06
 categories: [2. Programming, AI]
-tags: [coursework, abertay, ai, machine, learning, c#]
+tags: [coursework, abertay, ai, machine learning, c#]
 ---
 
 # Introduction and Background
