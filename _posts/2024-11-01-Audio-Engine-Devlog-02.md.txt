@@ -1,5 +1,5 @@
 ---
-title: Honours Project Proposal and more  [Devlog 02]
+title: Honours Project Proposal [Devlog 02]
 description: Researching and writing up my ambitions for the honours project
 author: Jan
 date: 2024-10-16
