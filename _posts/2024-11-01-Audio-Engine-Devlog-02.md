@@ -35,7 +35,7 @@ Seriously, if you haven’t seen this video, it’s amazing.
 
 I’ve also read and watched many books and videos from Guy Somberg, which is a great way to get the basics down. His books “Game audio programming” are fantastic for diving into a topic broadly and to help you find the right terminologies to further your research.
 
-Here are links to his books:
+Here are links to his books:<br>
 [Vol 1](https://www.amazon.co.uk/Game-Audio-Programming-Principles-Practices/dp/0367658348)<br>
 [Vol 2](https://www.amazon.co.uk/dp/1032401796/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk)<br>
 [Vol 3](https://www.amazon.co.uk/Game-Audio-Programming-Principles-Practices/dp/0367348047/ref=pd_sbs_strm_eu_t2_strm_cts_d_sccl_2_2/260-9523374-0217730?pd_rd_r=11962c49-7433-461a-a4e3-bd70a5ca7551&pd_rd_wg=0MXYY&pd_rd_w=q7ZD7&pd_rd_i=0367348047&psc=1)<br>
