@@ -20,10 +20,14 @@ So much for the “I’ll try and get a blog post done every Month” statement,
 Straight after submitting the Project Idea, I was tasked to create a 2500 word document containing a proposal for my project's idea. This paper had to cover topics such as, what the idea was, why it should be researched and how I would go about researching it. 
 I am not going to bother you with the intricacies of the paper but in short, I gave the following reasons:
 
-## What: Build an audio engine that focuses on memory and CPU management to stay within a given budget.
-Why: I have heard the term “Budget” in different presentations and read about them in different articles and I find optimisation a fascinating problem solving topic. I am also working with FMOD for our Book of Abominations game and I would love it if we could use our own  personalised audio engine within the game. But even if we didn’t, I would find it really cool to be able to make use of my personal game projects. Lastly, I find that there is not a lot of information out there for people who are interested in audio programming, to get started. Therefore I would like to be one of these information sources once I get the hang of things.
+## What: 
+Build an audio engine that focuses on memory and CPU management to stay within a given budget.
 
-## How: To get a broad understanding of the topic, I have watched many videos on audio engine structures such as this one here: 
+## Why: 
+I have heard the term “Budget” in different presentations and read about them in different articles and I find optimisation a fascinating problem solving topic. I am also working with FMOD for our Book of Abominations game and I would love it if we could use our own  personalised audio engine within the game. But even if we didn’t, I would find it really cool to be able to make use of my personal game projects. Lastly, I find that there is not a lot of information out there for people who are interested in audio programming, to get started. Therefore I would like to be one of these information sources once I get the hang of things.
+
+## How: 
+To get a broad understanding of the topic, I have watched many videos on audio engine structures such as this one here: 
 
 {% include embed/youtube.html id='L4GuM15QOFE' %}
 
