@@ -22,7 +22,7 @@ The feasibility demo was the next step to submit after the Project Proposal. For
 ## Mandatory artefacts
 Mandatory artefacts included: 
 - A Gantt chart of the timeline until April 28th displaying the tasks needing to be completed
-  ![Gantt Chart](/assets/img/UMLs/Gantt.png){: width="200" .w-5 .left }<br>
+  ![Gantt Chart](/assets/img/UMLs/Gantt.png){: width="600" .w-5 .normal }<br>
 - The research question of the project
 - Any changes made to the project in terms of scope 
 - A risk analysis form
@@ -33,9 +33,9 @@ Supporting artefacts were slightly different. These were anything that would sho
 - The repository of the project itself 
 - A running application of the project in its current state
 - A structure diagram of the project I would like to build
-  ![Structure Diagram](/assets/img/UMLs/HonourStructureDiagramOld.png){: width="200" .w-5 .left }<br>
+  ![Structure Diagram](/assets/img/UMLs/HonourStructureDiagramOld.png){: width="600" .w-5 .normal }<br>
 - A UML diagram showcasing that the structure diagram is not just pure insanity but actually thought through
-  ![UML Diagram](/assets/img/UMLs/HonourUMLOld.png){: width="200" .w-5 .left }<br>
+  ![UML Diagram](/assets/img/UMLs/HonourUMLOld.png){: width="600" .w-5 .normal }<br>
 
 # The projects development
 ---
