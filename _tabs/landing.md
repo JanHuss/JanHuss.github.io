@@ -1,5 +1,5 @@
 ---
 layout: landing
-icon: fas fa-archive
+icon: fas fa-microchip
 order: 1
 ---
