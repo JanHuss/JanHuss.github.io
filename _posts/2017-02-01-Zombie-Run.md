@@ -6,8 +6,8 @@ date: 2017-02-01
 categories: [4. Music Production, Compositions]
 tags: [music production, sound design, composition, jphuzzle]
 ---
-🎮 [Check out my other projects](https://janhuss.github.io/categories/)
-🎵 [Listen to Zombie Run]
+🎵 Listen to Zombie Run below | 🎮 [Check out my other projects](https://janhuss.github.io/categories/)
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/325367432&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 
