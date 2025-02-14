@@ -7,8 +7,7 @@ categories: [4. Music Production, Compositions]
 tags: [music production, sound design, composition, jphuzzle]
 ---
 🎮 [Check out my other projects](https://janhuss.github.io/categories/)
-
-## 🎵 Listen to Zombie Run
+🎵 [Listen to Zombie Run]
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/325367432&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 
@@ -34,4 +33,4 @@ The techniques I learned from *Zombie Run* have shaped how I approach music prod
 
 # Final Thoughts
 
-Looking back, *Zombie Run* was more than just a release—it was a turning point in my journey as a producer. If you’re interested in hearing it, [**give it a listen here!**](#listen-to-zombie-run)
+Looking back, *Zombie Run* was more than just a release—it was a turning point in my journey as a producer. If you’re interested in hearing it, **give it a listen using the link above!**
