@@ -1,5 +1,6 @@
 ---
-layout: landing
+layout: page
+title: landing
 icon: fas fa-microchip
 order: 1
 ---
