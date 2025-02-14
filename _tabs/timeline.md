@@ -1,6 +1,6 @@
 ---
 layout: archives
 title: Timeline
-icon: fas fa-microchip
+icon: fas fa-solid fa-clock
 order: 3
 ---
