@@ -1,5 +1,6 @@
 ---
 layout: default
 title: Blogs
-permalink: /
+icon: fas fa-microchip
+order: 1
 ---
