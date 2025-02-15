@@ -64,6 +64,6 @@ I’ll always be proud of.
 
 # Gallery
 
-![On stage at Blue Dot Festival](/assets/img/BluedotFestival/IMG_8333.jpg){: width="247" .w-33 .left}
-![Crowd filling up within minutes](/assets/img/BluedotFestival/IMG_8348.jpg){: width="247" .w-33 .left}
-![Mixing in action](/assets/img/BluedotFestival/IMG_8462-Edit.jpg){: width="247" .w-33 .left} <br>
+![On stage at Blue Dot Festival](/assets/img/BluedotFestival/IMG_8333.jpg){: width="256" .w-45 .normal}
+![Crowd filling up within minutes](/assets/img/BluedotFestival/IMG_8348.jpg){: width="256" .w-45 .normal}
+![Mixing in action](/assets/img/BluedotFestival/IMG_8462-Edit.jpg){: width="256" .w-45 .normal}
