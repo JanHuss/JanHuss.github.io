@@ -9,10 +9,57 @@ tags: [music production, sound design, video games, foley, composition]
 
 🎮 [Check out my other projects](https://janhuss.github.io/categories/)
 
-As part of my honours dissertation, I decided to recreate the soundscapes and SFX of a cinematic video. I chose ADAM: Episode One to be this video, removed all of the audio from it without ever hearing its original sound and built my own environment of sound based on what I was feeling from the footage.
-This was an incredible experience and had me thinking many times out of the box and how to keep sounds interesting to captivate the listener. From using deodorant cans for the release of the wires, to the squelching of a leather belt when the latex is torn, to the clashing of two forks for the robot's mechanical movement, it was a fantastic experience.
+# Introduction
+
+For my **honours dissertation**, I wanted to **push my sound design skills past the limit** while 
+exploring how **interactive audio works in games**. This project had two main parts:
+
+1. **Recreating the soundscapes and SFX** for a cinematic video without hearing the original audio.
+2. **Learning FMOD and C#** to integrate my own sounds into a game engine.
+
+What started as an advanced sound design challenge quickly became a **turning point** in my journey, 
+revealing my passion for **audio programming and problem-solving**.
+
+# Recreating a Cinematic Soundscape
+
 {% include embed/youtube.html id='yk3c_tREu78' %}
 
-The other part of my honours degree project involved exploring how audio was implemented into middleware, processed and manipulated to create an immersive environment for the player.
-For this, I taught myself how to use FMOD and C# in order to integrate my sounds into the Unity Game Engine. Despite the workload of both projects involving sound asset creation, composition, learning what code is from the very foundations and two new pieces of software, it was another pivotal moment in my life. This project ultimately revealed my hidden passion for coding and problem solving.
+For the **first part of the project**, I chose **ADAM: Episode One** and stripped away all of its 
+original audio. Without ever hearing how it sounded before, I built an entirely new 
+**sonic environment** based purely on what I felt from the visuals.
+
+This experience pushed me to **think outside the box**, using creative Foley techniques to craft 
+immersive, believable sounds:
+
+- **Deodorant cans** for the release of the wires.
+- **Squelching a leather belt** to mimic latex tearing.
+- **Clashing two forks together** for **robotic mechanical movement**.
+
+Every element had to **captivate the listener** while staying true to the atmosphere of the video, 
+making it one of the most rewarding sound design projects I’ve ever worked on.
+
+# From Sound to Code – Interactive Audio in Games
+
 {% include embed/youtube.html id='3I_mjL_KGvo' %}
+
+The second part of my **honours dissertation** focused on **how audio is implemented into 
+middleware**, processed, and manipulated to create an immersive game experience.
+
+To achieve this, I **taught myself FMOD and C#** and integrated my custom sound assets into the 
+**Unity Game Engine**. This required learning:
+
+- **How middleware like FMOD processes and controls in-game audio.**
+- **The basics of C# coding**, starting from the very foundations.
+- **The workflow of integrating sound assets dynamically into Unity.**
+- 
+Despite the workload — **creating sound assets, composing music, learning two new software tools, 
+and writing code from scratch** — this project became a **pivotal moment** in my career. It 
+ultimately revealed my **hidden passion for coding and problem-solving**.
+
+# Final Thoughts
+
+What started as an **exploration of sound design** ended up unlocking **a whole new creative 
+direction** for me. This project didn’t just refine my **sound design skills** — it laid the 
+foundation for my journey into **game audio programming**.
+
+**This was the moment I knew coding would become a huge part of my future.**
