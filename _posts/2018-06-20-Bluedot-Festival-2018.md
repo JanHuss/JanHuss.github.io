@@ -34,11 +34,6 @@ In the lead-up to the festival, I had the chance to **talk about my music and DJ
 - The inspiration behind my alias, **JP Huzzle**.
 - My approach to DJing and music selection.
 
-**Watch the full interview here:**
-<div class="video-container">
-  <iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/share/v/1BR28VeiSu/&show_text=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-</div>
-
 Additionally, the **School of Electronic Music** published a **[blog post featuring a written 
 interview](https://schoolofelectronicmusic.com/jp-huzzle-bluedot-festival/)**, where I shared 
 insights into my background and what this opportunity meant to me.
