@@ -63,8 +63,7 @@ experience reinforced my passion for **live performance and electronic music**, 
 I’ll always be proud of.
 
 # Gallery
-<div class="gallery">
-  <img src="/assets/img/BluedotFestival/IMG_8333.jpg" alt="On stage at Blue Dot Festival">
-  <img src="/assets/img/BluedotFestival/IMG_8348.jpg" alt="Crowd filling up within minutes">
-  <img src="/assets/img/BluedotFestival/IMG_8462-Edit.jpg" alt="Crowd filling up within minutes">
-</div>
+
+![On stage at Blue Dot Festival](/assets/img/BluedotFestival/IMG_8333.jpg){: width="247" .w-33 .left}
+![Crowd filling up within minutes](/assets/img/BluedotFestival/IMG_8348.jpg){: width="247" .w-33 .left}
+![Mixing in action](/assets/img/BluedotFestival/IMG_8462-Edit.jpg){: width="247" .w-33 .left} <br>
