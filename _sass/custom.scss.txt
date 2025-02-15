@@ -17,3 +17,8 @@
 .gallery img:hover {
   transform: scale(1.05);
 }
+
+.gallery img.normal {
+  margin: 10px; /* Space between images */
+  border-radius: 5px; /* Keep smooth edges */
+}
