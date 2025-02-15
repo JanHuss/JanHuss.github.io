@@ -1,0 +1,19 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px; /* Space between images */
+  justify-content: center;
+}
+
+.gallery img {
+  flex: 0 0 100px !important; /* Forces a fixed width */
+  max-width: 100px !important; /* Ensures images don’t scale too large */
+  height: 100px !important; /* Ensures images stay uniform */
+  border-radius: 5px;
+  object-fit: cover;
+  transition: transform 0.3s ease-in-out;
+}
+
+.gallery img:hover {
+  transform: scale(1.05);
+}
