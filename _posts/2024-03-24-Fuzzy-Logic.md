@@ -7,7 +7,7 @@ categories: [2. Programming, AI]
 tags: [coursework, abertay, ai, fuzzy, logic, c#]
 ---
 
-🖥️ [View the GitHub Repository] | 🎮 [Check out my other projects](https://janhuss.github.io/categories/)
+🎮 [Check out my other projects](https://janhuss.github.io/categories/)
 
 # Video Demonstrations
 
