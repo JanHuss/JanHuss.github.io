@@ -66,4 +66,5 @@ I’ll always be proud of.
 <div class="gallery">
   <img src="/assets/img/BluedotFestival/IMG_8333.jpg" alt="On stage at Blue Dot Festival">
   <img src="/assets/img/BluedotFestival/IMG_8348.jpg" alt="Crowd filling up within minutes">
+  <img src="/assets/img/BluedotFestival/IMG_8462-Edit.jpg" alt="Crowd filling up within minutes">
 </div>
