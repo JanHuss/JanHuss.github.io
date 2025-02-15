@@ -9,6 +9,13 @@ tags: [coursework, abertay, graphics, directx3d11, shaders, c++, renderdoc, nsig
 
 🖥️ [View the GitHub Repository](https://github.com/JanHuss/GraphicsProgrammingCoursework) | 🎮 [Check out my other projects](https://janhuss.github.io/categories/)
 
+# Video Demonstration
+
+The video below provides a **narrated walkthrough** of the application, explaining how the 
+**heightmap terrain, lighting, and bloom effects** function in real time.
+
+{% include embed/youtube.html id='-fSZVPdDhi4' %}
+
 # Introduction
 
 This might have been one of the **hardest things I’ve had to accomplish**, but it was also an 
@@ -73,13 +80,6 @@ To streamline development, I integrated **Dear ImGui**, which allowed for:
 
 This significantly improved the workflow, making it easier to **test and tweak rendering 
 settings efficiently**.
-
-# Showcase Video
-
-The video below **demonstrates the capabilities of the application**, showcasing how the 
-heightmap terrain, lighting, and bloom effects function in real time.
-
-{% include embed/youtube.html id='-fSZVPdDhi4' %}
 
 # Final Thoughts
 
