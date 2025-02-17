@@ -1,16 +1,15 @@
 - title: "Audio Engine"
-  description: "A state-of-the-art system redefining audio processing and sound design with cutting-edge technology."
+  description: "A custom-built **game audio engine** designed for **efficiency** and **real-time performance**. This project explores how to keep audio processing within **budget** while maintaining **high-quality sound**."
   image: "/assets/img/audio-engine.jpg"
 
 - title: "Dare Academy"
-  description: "An award-winning game development competition where I co-developed an innovative monster-collecting RPG."
+  description: "A **game development competition** where my teammate and I created an Eldritch-inspired monster collecting RPG, **winning all four awards**. I was also the **first second-year student** to win in its 20-year history."
   image: "/assets/img/dare-academy.jpg"
 
 - title: "Book of Abominations"
-  description: "A dark, Eldritch-inspired RPG that I helped create, blending deep lore with strategic gameplay."
+  description: "**A monster-collecting RPG** that grew from Dare Academy into a full-fledged project. Our playable demo is nearly complete, marking a **major milestone in development**."
   image: "/assets/img/book-of-abominations.jpg"
 
-- title: "Sustain Project"
-  description: "A 3D isometric tower defense and resource management game with integrated audio triggers using Unreal Engine."
+- title: "Sustain"
+  description: "A 3D isometric tower defense game, developed in Unreal Engine. My role focused on **gameplay programming** and **integrating an adaptive soundscape**, bringing the world to life."
   image: "/assets/img/sustain-project.jpg"
-
