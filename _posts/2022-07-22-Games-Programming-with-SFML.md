@@ -42,3 +42,13 @@ couldn’t wait for more. It solidified my **interest in game development** and 
 for everything I would later learn at Abertay.
 
 **This was just the beginning of my journey into game programming!**
+
+# Gallery
+
+![Zelda](/assets/img/SFML/zelda01.png){: width="256" .w-33 .normal}
+![Zelda](/assets/img/SFML/zelda02.png){: width="256" .w-33 .normal}
+![Zelda](/assets/img/SFML/zelda03.png){: width="256" .w-33 .normal}<br>
+
+![Zelda](/assets/img/SFML/zelda04.png){: width="256" .w-33 .normal}
+![Zelda](/assets/img/SFML/zelda05.png){: width="256" .w-33 .normal}
+![Zelda](/assets/img/SFML/zelda06.png){: width="256" .w-33 .normal}<br>
