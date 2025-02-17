@@ -3,7 +3,7 @@ title: Rendering a Heightmap & Implementing Bloom Effects
 description: A deep dive into shaders, lighting, and rendering techniques.
 author: Jan
 date: 2023-12-06
-categories: [University Work]
+categories: [3_University Work]
 tags: [coursework, abertay, graphics, directx3d11, shaders, c++, renderdoc, nsight]
 ---
 

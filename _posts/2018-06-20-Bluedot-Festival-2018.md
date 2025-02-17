@@ -3,7 +3,7 @@ title: JP Huzzle Live at Blue Dot Festival 2018
 description: From empty tent to packed crowd
 author: Jan
 date: 2018-06-20
-categories: [Personal & Creative Work]
+categories: [1_Professional & Industry Projects]
 tags: [music production, jphuzzle, dj]
 ---
 

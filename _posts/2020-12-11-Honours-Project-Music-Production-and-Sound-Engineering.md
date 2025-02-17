@@ -3,7 +3,7 @@ title: Honours Dissertation
 description: Sound Design & Interactive Audio
 author: Jan
 date: 2020-12-11
-categories: [Professional & Industry Projects]
+categories: [1_Professional & Industry Projects]
 tags: [music production, sound design, video games, foley, composition]
 ---
 

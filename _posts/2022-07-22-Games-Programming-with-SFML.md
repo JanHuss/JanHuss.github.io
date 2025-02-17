@@ -3,7 +3,7 @@ title: My First Completed Game
 description: A Zelda-Inspired Escape Room
 author: Jan
 date: 2022-05-17
-categories: [University Work]
+categories: [3_University Work]
 tags: [coursework, abertay, sfml, c++]
 ---
 

@@ -3,7 +3,7 @@ title: Exploring Production Techniques
 description: A Point Blank Music School Project
 author: Jan
 date: 2019-12-04
-categories: [Personal & Creative Work]
+categories: [2_Personal & Creative Work]
 tags: [music production, sound design, jphuzzle]
 ---
 

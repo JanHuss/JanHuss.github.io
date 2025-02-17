@@ -3,7 +3,7 @@ title: Studio Catloaf
 description: The Continued Development of Book of Abominations
 author: Jan
 date: 2024-02-10
-categories: [Professional & Industry Projects]
+categories: [1_Professional & Industry Projects]
 tags: [game development, sound design, devlog, teamwork, c#, fmod, unity, company]
 ---
 
