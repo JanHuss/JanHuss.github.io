@@ -6,15 +6,15 @@ permalink: /
 # Welcome
 
 ## Audio Engine
-<h2 class="text-end">My Right-Aligned Header</h2>
-[![Sustain](/assets/img/landing/Sustain.png)](https://janhuss.github.io/posts/Sustain/){: width="200" .w-25 .right }
+
+[![Sustain](/assets/img/landing/Sustain.png)](https://janhuss.github.io/posts/Building-an-Audio-Engine/){: width="200" .w-25 .right }
 
 A look at some of my most exciting projects — where **game development**
 meets **audio programming**.
 
 ## Dare Academy
 
-[![Sustain](/assets/img/landing/Sustain.png)](https://janhuss.github.io/posts/Sustain/){: width="200" .w-25 .left }
+[![Sustain](/assets/img/landing/dare.png)](https://janhuss.github.io/posts/Dare-Academy-2023/){: width="200" .w-25 .left }
 
 A custom-built **game audio engine** designed for **efficiency** and **real-time performance**. 
 This project explores how to keep audio processing within **budget** while maintaining 
@@ -22,7 +22,7 @@ This project explores how to keep audio processing within **budget** while maint
 
 ## Book of Abominations
 
-[![Sustain](/assets/img/landing/Sustain.png)](https://janhuss.github.io/posts/Sustain/){: width="200" .w-25 .right }
+[![Sustain](/assets/img/landing/BoALogo.png)](https://store.steampowered.com/app/3291120/Book_of_Abominations/){: width="200" .w-25 .right }
 
 A **game development competition** where my teammate and I created an Eldritch-inspired monster 
 collecting RPG, **winning all four awards**. I was also the **first second-year student** to win 
