@@ -3,7 +3,7 @@ title: Exploring Fuzzy Logic for AI Decision-Making
 description: Testing fuzzy logic for real-time AI behavior.
 author: Jan
 date: 2024-03-24
-categories: [2. Programming, AI]
+categories: [University Work]
 tags: [coursework, abertay, ai, fuzzy, logic, c#]
 ---
 

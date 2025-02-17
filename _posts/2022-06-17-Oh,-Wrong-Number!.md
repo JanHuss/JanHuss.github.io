@@ -2,8 +2,8 @@
 title: Oh, Wrong Number!
 description: My First Game Jam Experience
 author: Jan
-date: 2022-06-17
-categories: [3. Game Development, Collaborations]
+date: 2022-07-17
+categories: [Personal & Creative Work]
 tags: [game development, sound design, c#]
 ---
 

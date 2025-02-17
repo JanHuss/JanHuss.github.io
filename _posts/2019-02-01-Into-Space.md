@@ -3,7 +3,7 @@ title: Into Space
 description: Exploring Bass Design in Dubstep & Neurofunk
 author: Jan
 date: 2019-02-01
-categories: [4. Music Production, Compositions]
+categories: [Personal & Creative Work]
 tags: [music production, sound design, jphuzzle]
 ---
 🎵 Listen to Into Space below | 🎮 [Check out my other projects](https://janhuss.github.io/categories/)

@@ -3,7 +3,7 @@ title: Arcade Lif<3 EP
 description: A Fusion of EDM and Chiptune
 author: Jan
 date: 2017-10-05
-categories: [4. Music Production, Compositions]
+categories: [Personal & Creative Work]
 tags: [music production, sound design, composition, jphuzzle]
 ---
 🎵 Listen to Arcade Lif<3 EP below | 🎮 [Check out my other projects](https://janhuss.github.io/categories/)

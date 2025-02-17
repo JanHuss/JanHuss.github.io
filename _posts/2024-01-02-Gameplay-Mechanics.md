@@ -3,7 +3,7 @@ title: Building a Final Fantasy-Inspired Turn-Based Combat System
 description: An initial dive into gameplay mechanics using Unreal Engine
 author: Jan
 date: 2023-12-11
-categories: [2. Programming, Gameplay Mechanics]
+categories: [University Work]
 tags: [coursework, abertay, c++, unreal engine, blueprints, conversion]
 ---
 

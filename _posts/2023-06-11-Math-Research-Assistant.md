@@ -3,7 +3,7 @@ title: Math Research Assistant
 description: Developing a Trigonometry Module for Abertay University
 author: Jan
 date: 2023-06-11
-categories: [2. Programming, Mathematics]
+categories: [Professional & Industry Projects]
 tags: [mathematics]
 ---
 

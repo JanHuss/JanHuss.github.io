@@ -3,7 +3,7 @@ title: Discovering a Passion for Audio Programming
 description: Sound Design for Video Games
 author: Jan
 date: 2020-12-04
-categories: [4. Music Production, Sound Design For Video Games]
+categories: [University Work]
 tags: [music production, sound design, video games, composition]
 ---
 

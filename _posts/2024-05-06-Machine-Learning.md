@@ -3,7 +3,7 @@ title: Training a Facial Emotion Recognition AI Model
 description: An introduction to Machine Learning
 author: Jan
 date: 2024-05-06
-categories: [2. Programming, AI]
+categories: [University Work]
 tags: [coursework, abertay, ai, machine learning, c#]
 ---
 

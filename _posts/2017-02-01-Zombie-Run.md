@@ -3,7 +3,7 @@ title: Zombie Run
 description: My First Official Release
 author: Jan
 date: 2017-02-01
-categories: [4. Music Production, Compositions]
+categories: [Personal & Creative Work]
 tags: [music production, sound design, composition, jphuzzle]
 ---
 🎵 **Listen to Zombie Run below** | 🎮 [Check out my other projects](https://janhuss.github.io/categories/)

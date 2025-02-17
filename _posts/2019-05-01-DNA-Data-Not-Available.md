@@ -3,7 +3,7 @@ title: Data Not Available
 description: From concept to completion — my debut album.
 author: Jan
 date: 2019-05-01
-categories: [4. Music Production, Compositions]
+categories: [Personal & Creative Work]
 tags: [music production, sound design, jphuzzle]
 ---
 🎵 Listen to DNA below | 🎮 [Check out my other projects](https://janhuss.github.io/categories/)
