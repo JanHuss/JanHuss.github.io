@@ -8,7 +8,7 @@ categories: [1_Professional & Industry Projects]
 
 # Introduction
 
-At **16 years of age**, I was given a **year-long project** to complete. While some attempted to 
+At **the age of 16**, I was given a **year-long project** to complete. While some attempted to 
 build a violin but never finished, I also set myself an ambitious challenge: **building an electric 
 guitar** — and to make it even more exciting, I decided to solder a **tube amplifier** to go with it.
 
