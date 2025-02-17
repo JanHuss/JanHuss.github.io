@@ -7,35 +7,55 @@ order: 1
 [//]: <>({: .prompt-tip })
 [//]: <>(About me section:)
 ---
-I am an Audio Tools Programmer with a 10-year career in music production <br>and sound design. Completing a Bachelor Honours of Arts in Music Production <br>and Sound Engineering and a Bachelor Honours of Computer Science in <br>Computer Game Applications Development, I have worked hard to combine <br>knowledge in music and code to fill the role of an Audio Tools Programmer <br>in the games industry.<br><br>Currently, I am also one of the co-founders and company directors at <br>Studio Catloaf, where I work as a producer, audio programmer, and sound <br>designer and composer.
+![About](/assets/img/Profile/About.jpg){: width="200" .w-33 .right }
 
-## Current Projects:
----
-- [Book of Abominations](https://www.eurogamer.net/uncovering-the-eldritch-horror-monster-collecting-rpg-book-of-abominations) - An award-winning game developed by [Studio Catloaf](https://x.com/StudioCatloaf)
-- [MaginEngine Audio](https://github.com/JanHuss/maginEngineAudio) - Building an efficient and optimised audio engine for <br>video games (Honours project) 
+I am an **Audio Tools Programmer** with a decade of experience in music production and sound design. 
+I hold a **Bachelor Honours of Arts in Music Production and Sound Engineering**, and I am currently 
+pursuing a **Bachelor Honours of Computer Science in Computer Game Applications Development** 
+(expected completion in May 2025). My work uniquely blends musical creativity with technical 
+expertise, allowing me to excel in the games industry.
 
-<!-- markdownlint-restore -->
-## Skills in:
----
-Languages:<br>
-    ![cplusplus](/assets/img/logos/cplusplus.png){: width="50" .w-5 .left}
-    ![cpsharp](/assets/img/logos/csharp.png){: width="50" .w-5 .left}
-    ![html](/assets/img/logos/html.png){: width="50" .w-5 .left }
-    ![python](/assets/img/logos/python.png){: width="50" .w-5 .left }
+I am also a co-founder of [Studio Catloaf](https://janhuss.github.io/posts/The-Founding-of-Studio-Catloaf/), where I 
+worked as a producer, audio programmer, sound designer, and composer.
 
-<br><br>
+# Current Projects
 
-Tools:<br>
-    ![unity](/assets/img/logos/unity.png){: width="50" .w-5 .left}
-    ![unrealengine](/assets/img/logos/unrealengine.png){: width="50" .w-5 .left}
-    ![rider](/assets/img/logos/rider.png){: width="50" .w-5 .left}
-    ![visualstudio](/assets/img/logos/visualstudio.png){: width="50" .w-5 .left}
-    ![powershell](/assets/img/logos/powershell.png){: width="50" .w-5 .left}
-    ![github](/assets/img/logos/github.png){: width="50" .w-5 .left}
-    ![sfml](/assets/img/logos/sfml-icon-big.png){: width="50" .w-5 .left}
-    ![opengl](/assets/img/logos/opengl.png){: width="50" .w-5 .left}
-    ![jekyll](/assets/img/logos/jekyll.png){: width="50" .w-5 .left}
-    ![ableton](/assets/img/logos/ableton.png){: width="50" .w-5 .left}
-    ![reaper](/assets/img/logos/reaper.png){: width="50" .w-5 .left}
-    ![fmod](/assets/img/logos/fmod.png){: width="50" .w-5 .left}
-    ![wwise](/assets/img/logos/wwise.png){: width="50" .w-5 .left}
+- [MaginEngine Audio](https://janhuss.github.io/posts/Building-an-Audio-Engine/)<br>
+  An honours project focused on building an efficient and optimized audio engine for video games.
+
+- [Book of Abominations](https://janhuss.github.io/posts/Dare-Academy-2023/)<br>
+  A four-time award-winning game developed by Studio Catloaf.
+
+# Skills
+
+### Programming Languages & Markup
+
+- C++
+- C#
+- HTML
+- Python
+
+### Game Development & Graphics
+
+- Unity
+- Unreal Engine
+- SFML
+- OpenGL
+
+### Development Environments & Tools
+
+- Rider
+- Visual Studio
+- PowerShell
+- GitHub
+
+### Audio Production & Middleware
+
+- Ableton
+- Reaper
+- FMOD
+- Wwise
+
+### Web & Site Generation
+
+- Jekyll
