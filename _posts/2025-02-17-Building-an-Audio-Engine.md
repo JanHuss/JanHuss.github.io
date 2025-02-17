@@ -11,7 +11,7 @@ tags: [game development, audio engine, honours, abertay, devlog, dsp, memory man
 # Introduction
 
 For my **honours project**, I set out to design and build an **audio engine for video games** 
-with a focus o[2025-02-17-Building-an-Audio-Engine.md](2025-02-17-Building-an-Audio-Engine.md)n **memory allocation and efficiency**.
+with a focus on **memory allocation and efficiency**.
 
 The project was inspired by [Rockstar’s RAGE Audio GDC talk](https://youtu.be/PqPaP_09Pwg?si=ztXVmpbTX-4Z7oDK), 
 which first introduced me to the idea of **audio budgets** — an essential part of optimizing 
