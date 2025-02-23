@@ -12,8 +12,9 @@ order: 1
 I am an **Audio Tools Programmer** with a decade of experience in music production and sound design. 
 I hold a **Bachelor Honours of Arts in Music Production and Sound Engineering**, and I am currently 
 pursuing a **Bachelor Honours of Computer Science in Computer Game Applications Development** 
-(expected completion in May 2025). My work uniquely blends musical creativity with technical 
-expertise, allowing me to excel in the games industry.
+(expected completion in May 2025). My academic background in music production and programming 
+uniquely positions me to bridge the gap between coders, composers, and sound designers, ensuring 
+seamless collaboration in the games industry.
 
 I am also a co-founder of [Studio Catloaf](https://janhuss.github.io/posts/The-Founding-of-Studio-Catloaf/), where I 
 worked as a producer, audio programmer, sound designer, and composer.
