@@ -11,24 +11,19 @@ A look at some of my most recent and exciting **game development** and **audio p
 
 [![maginengine](/assets/img/landing/MaginenginePlaceHolder.png)](https://janhuss.github.io/posts/Building-an-Audio-Engine/){: width="200" .w-25 .right }
 
-A custom-built **game audio engine** designed for **efficiency** and **real-time performance**. This project explores the design, 
-architecture and development of a game audio engine, serving as a starting point for those interested in audio programming their."
+A custom-built **game audio engine** designed for **efficiency** and **real-time performance**. This project explores the design, architecture and development of a game audio engine, serving as a starting point for those interested in **audio programming their own**.
 
 ## Book of Abominations
 
 [![boa](/assets/img/landing/BoALogo.png)](https://store.steampowered.com/app/3291120/Book_of_Abominations/){: width="200" .w-25 .right }
 
-A **game development competition** where my teammate and I created an Eldritch-inspired monster 
-collecting RPG, **winning all four awards**. I was also the **first second-year student** to win 
-in its 20-year history.
+**A monster-collecting RPG** that grew from Dare Academy into a full-fledged project. Our playable demo is nearly complete, marking a **major milestone in development**.
 
 ## Dare Academy Winner 2023
 
 [![dare](/assets/img/landing/dare.png)](https://janhuss.github.io/posts/Dare-Academy-2023/){: width="200" .w-25 .right }
 
-A custom-built **game audio engine** designed for **efficiency** and **real-time performance**. 
-This project explores how to keep audio processing within **budget** while maintaining 
-**high-quality sound**.
+A **game development competition** where my teammate and I created an Eldritch-inspired monster collecting RPG, **winning all four awards**. I was also the **first second-year student** to win in its 20-year history.
 
 ## Sustain
 
