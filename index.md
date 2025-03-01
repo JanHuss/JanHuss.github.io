@@ -11,7 +11,8 @@ A look at some of my most recent and exciting **game development** and **audio p
 
 [![maginengine](/assets/img/landing/MaginenginePlaceHolder.png)](https://janhuss.github.io/posts/Building-an-Audio-Engine/){: width="200" .w-25 .right }
 
-A custom-built **game audio engine** designed for **efficiency** and **real-time performance**. This project explores the design, architecture and development of a game audio engine, serving as a starting point for those interested in audio programming their."
+A custom-built **game audio engine** designed for **efficiency** and **real-time performance**. This project explores the design, 
+architecture and development of a game audio engine, serving as a starting point for those interested in audio programming their."
 
 ## Book of Abominations
 
