@@ -15,7 +15,7 @@ with a focus on **memory allocation and efficiency**.
 
 The project was inspired by [Rockstar’s RAGE Audio GDC talk](https://youtu.be/PqPaP_09Pwg?si=ztXVmpbTX-4Z7oDK), 
 which first introduced me to the idea of **audio budgets** — an essential part of optimizing 
-game audio. Throughout this journey, I aim to:
+game audio. Throughout this journey, I aimed to:
 
 - **Understand the structure of an audio engine.**
 - **Analyze how asset usage can stay within a given budget.**
