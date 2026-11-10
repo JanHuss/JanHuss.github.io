@@ -21,7 +21,6 @@ tagline: Audio Tools Programmer # it will display as the subtitle
 description: >- # used by seo meta and the atom feed
   Jan Huss is an Audio Tools Programmer with a 10 year career in music production and sound design. Completing a Bachelor Honours of Arts in Music Production and Sound Engineering and a Bachelor Honours of Computer Science in Computer Game Applications Development, Jan has worked hard to combine knowledge in music and code to fill the roll as an Audio Tools Programmer in the games industry. He is also one of the company directors at Studio Catloaf in which he works as the producer, audio programmer, sound designer and composer.
 
-
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://janhuss.com"
@@ -99,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/92026921?s=400&u=a63e64d6f4717998c6ba483cf67b99e1e02de72d&v=4
+avatar: /assets/img/Profile/Avatar.jpg
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
